@@ -1085,6 +1085,11 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
+"@expo-google-fonts/hind@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/hind/-/hind-0.2.3.tgz#36274bb427d24825497dad531880a391e25671b3"
+  integrity sha512-tZrTKOmxgkqVA2Ui7RAfBNbfN0hnvic0dKTghFNGva+RM+smnFU4QvXJXGu+z1HSSVAscRyNf8hl9a+ePXVFbg==
+
 "@expo/bunyan@4.0.0", "@expo/bunyan@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@expo/bunyan/-/bunyan-4.0.0.tgz#be0c1de943c7987a9fbd309ea0b1acd605890c7b"
@@ -3155,7 +3160,7 @@ expo-file-system@~15.2.0, expo-file-system@~15.2.2:
   dependencies:
     uuid "^3.4.0"
 
-expo-font@~11.1.1:
+expo-font@^11.1.1, expo-font@~11.1.1:
   version "11.1.1"
   resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-11.1.1.tgz#268eed407e94f6e88083c01b68c357d010748d23"
   integrity sha512-X+aICqYY69hiiDDtcNrjq8KutHrH2TrHuMqk0Rfq0P7hF6hMd+YefwLBNkvIrqrgmTAuqiLjMUwj2rHLqmgluw==
