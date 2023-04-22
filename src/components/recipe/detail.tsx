@@ -35,7 +35,9 @@ export function RecipeDetail() {
 
   return (
     recipe && (
-      <SafeAreaView style={{ flex: 1, padding: 20 }}>
+      <SafeAreaView
+        style={{ flex: 1, padding: 20, backgroundColor: "#fafafa" }}
+      >
         <View
           style={{
             flexDirection: "row",

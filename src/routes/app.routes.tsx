@@ -16,6 +16,7 @@ export function AppRoutes() {
           borderTopWidth: 0,
           paddingBottom: 10,
           paddingTop: 10,
+          elevation: 0,
         },
       }}
     >

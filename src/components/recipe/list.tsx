@@ -25,7 +25,7 @@ export function RecipeList() {
   });
 
   return (
-    <SafeAreaView style={{ flex: 1 }}>
+    <SafeAreaView style={{ flex: 1, backgroundColor: "#fafafa" }}>
       <FlatList
         data={list}
         keyExtractor={(item) => item.id}
