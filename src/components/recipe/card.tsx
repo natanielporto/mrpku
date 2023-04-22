@@ -1,4 +1,4 @@
-import { View, Text, TouchableOpacity } from "react-native";
+import { Image, Text, TouchableOpacity } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 import { Recipe } from "./type";
 import { RecipeNavigatorRoutesProps } from ".";
@@ -16,9 +16,19 @@ export function RecipeCard({ recipe }: Props) {
 
   return (
     <TouchableOpacity
-      style={{ flex: 1, padding: 20 }}
+      style={{
+        flex: 1,
+        padding: 20,
+        flexDirection: "row",
+        alignItems: "center",
+        gap: 8,
+      }}
       onPress={handleRecipeSelect}
     >
+      <Image
+        source={{ uri: recipe.image }}
+        style={{ width: 40, height: 40, borderRadius: 4 }}
+      />
       <Text>{recipe.name}</Text>
     </TouchableOpacity>
   );

@@ -1,26 +1,33 @@
+import { useEffect, useState } from "react";
 import { FlatList, SafeAreaView } from "react-native";
+import { supabase } from "../../services/supabase";
 import { RecipeCard } from "./card";
 import { Recipe } from "./type";
 
 export function RecipeList() {
-  //TODO: Fetch recipes from API
-  const recipes: Recipe[] = [
-    {
-      id: "1",
-      name: "Pão de queijo",
-      image: "https://i.imgur.com/0Z0QY0H.png",
-    },
-    {
-      id: "2",
-      name: "Bolo de cenoura",
-      image: "https://i.imgur.com/0Z0QY0H.png",
-    },
-  ];
+  const [list, setList] = useState<Recipe[]>([]);
+
+  useEffect(() => {
+    supabase
+      .from("MRPKU_recipe")
+      .select("*")
+      .then(({ data, error }) => {
+        if (error) return;
+
+        setList(
+          data.map((item) => ({
+            id: item.id,
+            name: item.name,
+            image: item.image,
+          }))
+        );
+      });
+  });
 
   return (
     <SafeAreaView style={{ flex: 1 }}>
       <FlatList
-        data={recipes}
+        data={list}
         keyExtractor={(item) => item.id}
         renderItem={({ item }) => <RecipeCard recipe={item} />}
       />
