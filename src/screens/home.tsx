@@ -1,9 +1,10 @@
-import { View, Text } from "react-native";
+import { SafeAreaView } from "react-native-safe-area-context";
+import { Recipe } from "../components/recipe";
 
 export function HomeScreen() {
   return (
-    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Home</Text>
-    </View>
+    <SafeAreaView style={{ flex: 1 }}>
+      <Recipe />
+    </SafeAreaView>
   );
 }
