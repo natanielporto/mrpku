@@ -1,3 +1,7 @@
+import { StatusBar } from "expo-status-bar";
+import { Routes } from "./src/routes";
+import "react-native-gesture-handler";
+import { View } from "react-native";
 import React, { useEffect } from "react";
 import { SafeAreaView } from "react-native";
 import Btn from "./src/components/atoms/Button/Button";
@@ -7,7 +11,6 @@ import { FontSource } from "expo-font";
 type FontMap = Record<string, FontSource> & {
   [fontName: string]: FontSource;
 };
-
 export default function App() {
   const handlePress = () => 1;
 
