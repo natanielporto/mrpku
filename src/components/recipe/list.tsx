@@ -18,7 +18,7 @@ export function RecipeList() {
           data.map((item) => ({
             id: item.id,
             name: item.name,
-            image: item.image,
+            image: item.image ?? "",
           }))
         );
       });
