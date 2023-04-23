@@ -3,8 +3,6 @@ import { Routes } from "./src/routes";
 import "react-native-gesture-handler";
 import { View } from "react-native";
 import React, { useEffect } from "react";
-import { SafeAreaView } from "react-native";
-import Btn from "./src/components/atoms/Button/Button";
 import * as Font from "expo-font";
 import { FontSource } from "expo-font";
 
@@ -29,8 +27,9 @@ export default function App() {
   }, []);
 
   return (
-    <SafeAreaView>
-      <Btn title="Test Case" onPress={handlePress} />
-    </SafeAreaView>
+    <View style={{ flex: 1, backgroundColor: "#fafafa" }}>
+      <Routes />
+      <StatusBar style="dark" translucent backgroundColor="transparent" />
+    </View>
   );
 }
