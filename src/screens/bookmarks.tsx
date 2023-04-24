@@ -1,10 +1,10 @@
+import { Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { Recipe } from "../components/recipe";
 
-export function HomeScreen() {
+export function BookmarksScreen() {
   return (
     <SafeAreaView className="flex-1">
-      <Recipe />
+      <Text>Bookmarks</Text>
     </SafeAreaView>
   );
 }
