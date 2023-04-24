@@ -1,8 +1,10 @@
 import { Image, Text, TouchableOpacity, View } from "react-native";
 import { useNavigation } from "@react-navigation/native";
-import { Recipe } from "../../../typesAndInterfaces/type";
+import {
+  Recipe,
+  RecipeNavigatorRoutesProps,
+} from "../../../typesAndInterfaces/type";
 import Btn from "../../atoms/Button/Button";
-import { RecipeNavigatorRoutesProps } from "../../screens/recipe";
 import { LinearGradient } from "../../atoms/LinearGradient/LinearGradient";
 import { Title } from "../../atoms/Title/Title";
 
