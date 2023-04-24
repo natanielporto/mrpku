@@ -1,7 +1,7 @@
 import { createStackNavigator } from "@react-navigation/stack";
 import { RecipeDetail } from "../../organisms/RecipeDetails/RecipeDetails";
 import { RecipeLists } from "../../organisms/RecipeLists/RecipeLists";
-import { RecipeRoute } from "../../../typesAndInterfaces/type";
+import { RecipeRoute } from "../../../typesAndInterfaces/types";
 
 const { Navigator, Screen } = createStackNavigator<RecipeRoute>();
 

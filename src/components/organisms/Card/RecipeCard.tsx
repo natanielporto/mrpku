@@ -3,7 +3,7 @@ import { useNavigation } from "@react-navigation/native";
 import {
   Recipe,
   RecipeNavigatorRoutesProps,
-} from "../../../typesAndInterfaces/type";
+} from "../../../typesAndInterfaces/types";
 import Btn from "../../atoms/Button/Button";
 import { LinearGradient } from "../../atoms/LinearGradient/LinearGradient";
 import { Title } from "../../atoms/Title/Title";

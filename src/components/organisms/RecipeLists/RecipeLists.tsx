@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { FlatList, SafeAreaView } from "react-native";
 import { supabase } from "../../../services/supabase";
-import { Recipe } from "../../../typesAndInterfaces/type";
+import { Recipe } from "../../../typesAndInterfaces/types";
 import { RecipeCard } from "../Card/RecipeCard";
 
 export function RecipeLists() {

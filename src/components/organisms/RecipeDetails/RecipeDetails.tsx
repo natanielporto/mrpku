@@ -3,7 +3,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { useRoute, useNavigation } from "@react-navigation/native";
 import { Feather } from "@expo/vector-icons";
 import { useLayoutEffect, useState } from "react";
-import { Recipe } from "../../../typesAndInterfaces/type";
+import { Recipe } from "../../../typesAndInterfaces/types";
 import { supabase } from "../../../services/supabase";
 import { List } from "../../molecules/List/List";
 import { Title } from "../../atoms/Title/Title";
