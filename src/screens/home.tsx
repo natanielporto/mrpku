@@ -3,7 +3,7 @@ import { Recipe } from "../components/recipe";
 
 export function HomeScreen() {
   return (
-    <SafeAreaView style={{ flex: 1 }}>
+    <SafeAreaView className="flex-1">
       <Recipe />
     </SafeAreaView>
   );

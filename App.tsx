@@ -1,33 +1,33 @@
+import "react-native-gesture-handler";
+import React from "react";
+import AppLoading from "expo-app-loading";
 import { StatusBar } from "expo-status-bar";
 import { Routes } from "./src/routes";
-import "react-native-gesture-handler";
 import { View } from "react-native";
-import React, { useEffect } from "react";
-import * as Font from "expo-font";
-import { FontSource } from "expo-font";
+import { useFonts } from "expo-font";
+import {
+  Hind_300Light,
+  Hind_400Regular,
+  Hind_500Medium,
+  Hind_600SemiBold,
+  Hind_700Bold,
+} from "@expo-google-fonts/hind";
 
-type FontMap = Record<string, FontSource> & {
-  [fontName: string]: FontSource;
-};
 export default function App() {
-  const handlePress = () => 1;
+  const [fontsLoaded] = useFonts({
+    Hind_300Light,
+    Hind_400Regular,
+    Hind_500Medium,
+    Hind_600SemiBold,
+    Hind_700Bold,
+  });
 
-  async function loadFonts(fonts: FontMap) {
-    await Font.loadAsync(fonts);
+  if (!fontsLoaded) {
+    return <AppLoading />;
   }
 
-  useEffect(() => {
-    loadFonts({
-      "Hind-Bold": require("./assets/fonts/Hind-Bold.ttf"),
-      "Hind-Light": require("./assets/fonts/Hind-Light.ttf"),
-      "Hind-Medium": require("./assets/fonts/Hind-Medium.ttf"),
-      "Hind-Regular": require("./assets/fonts/Hind-Regular.ttf"),
-      "Hind-SemiBold": require("./assets/fonts/Hind-SemiBold.ttf"),
-    });
-  }, []);
-
   return (
-    <View style={{ flex: 1, backgroundColor: "#fafafa" }}>
+    <View className="flex-1 bg-light">
       <Routes />
       <StatusBar style="dark" translucent backgroundColor="transparent" />
     </View>

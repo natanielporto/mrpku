@@ -50,94 +50,50 @@ export function RecipeDetail() {
 
   return (
     recipe && (
-      <SafeAreaView
-        style={{ flex: 1, padding: 20, backgroundColor: "#fafafa" }}
-      >
-        <View
-          style={{
-            flexDirection: "row",
-            alignItems: "center",
-            gap: 8,
-            marginBottom: 16,
-          }}
-        >
+      <SafeAreaView className="flex-1 p-5 bg-bgLight">
+        <View className="flex-row items-center gap-2 mb-4">
           <TouchableOpacity onPress={handleGoBack}>
             <Feather name="arrow-left" size={24} color="#888" />
           </TouchableOpacity>
-          <Text
-            // className="text-2xl"
-            style={{ fontWeight: "700", fontSize: 24 }}
-          >
-            {recipe.name}
-          </Text>
+          <Text className="text-2xl font-bold">{recipe.name}</Text>
         </View>
         <View>
           <Image
             source={{ uri: recipe.image }}
-            style={{
-              width: "100%",
-              height: 200,
-              resizeMode: "cover",
-              borderRadius: 16,
-            }}
+            className="w-full h-200 object-cover rounded-2xl"
           />
         </View>
-        <View
-          style={{
-            borderBottomWidth: "4",
-            borderBottomColor: "green",
-            marginTop: 50,
-            marginBottom: 10,
-            width: "37%",
-          }}
-        >
-          <Text
-            style={{
-              fontWeight: "700",
-              fontSize: 24,
-            }}
-          >
-            Ingredientes
-          </Text>
+        <View className="border-b-4 border-b-green mt-fifty mb-ten w-tirtySeven">
+          <Text className="font-bold text-2xl">Ingredientes</Text>
         </View>
 
-        <FlatList
-          data={fakeRecipe}
-          renderItem={({ item }) => (
-            <View style={{ flex: 1, flexDirection: "row", maxWidth: "95%" }}>
-              <Feather
-                name="circle"
-                size={6}
-                color="green"
-                style={{ marginTop: 8, marginRight: 3 }}
-              />
-              <Text style={{ lineHeight: 20 }}>{item}</Text>
-            </View>
-          )}
-          keyExtractor={(item) => item}
-        />
+        <View>
+          <FlatList
+            data={fakeRecipe}
+            renderItem={({ item }) => (
+              <View className="flex flex-row max-w-ninetyFive">
+                <View className="mt-2 mr-three">
+                  <Feather name="circle" size={6} color="green" />
+                </View>
+                <Text className="leading-5">{item}</Text>
+              </View>
+            )}
+            keyExtractor={(item) => item}
+          />
+        </View>
 
         <View>
-          <Text
-            style={{
-              fontSize: 16,
-              fontWeight: 700,
-              marginBottom: 10,
-            }}
-          >
+          <Text className="text-base font-bold mb-ten mt-10">
             Modo de preparo:
           </Text>
           <FlatList
             data={fakePreparation}
             renderItem={({ item }) => (
-              <View style={{ flex: 1, flexDirection: "row", maxWidth: "95%" }}>
-                <Feather
-                  name="check"
-                  size={14}
-                  color="green"
-                  style={{ marginTop: 3, marginRight: 3 }}
-                />
-                <Text style={{ lineHeight: 20 }}>{item}</Text>
+              <View className="flex flex-row max-w-ninetyFive">
+                <View className="mt-three mr-three">
+                  <Feather name="check" size={14} color="green" />
+                </View>
+                <Text className="leading-5">{item}</Text>
               </View>
             )}
             keyExtractor={(item) => item}

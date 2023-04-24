@@ -1,13 +1,5 @@
 // tailwind.config.js
 
-// const {
-//   Hind_700Bold,
-//   Hind_300Light,
-//   Hind_500Medium,
-//   Hind_400Regular,
-//   Hind_600SemiBold,
-// } = require("@expo-google-fonts/hind");
-
 module.exports = {
   content: ["./App.{js,jsx,ts,tsx}", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
@@ -22,11 +14,41 @@ module.exports = {
         lightGreen: "#8BDFBB",
         grey50: "#A0A0A0",
         grey100: "#C1C1C1",
-        gradient: "linear-gradient(90deg, #5FDC94 50%, #CCF4DE 100%)",
-        shadow: "0px 3px 1px -2px rgba(0 0 0 0 .1)",
+
+        bgLight: "#FAFAFA",
+
+        boxshadow: "box-shadow: 0 3px 1px -2px rgba(0 0 0 0 .1)",
+      },
+
+      maxWidth: {
+        fourty: "40%",
+        ninetyFive: "95%",
+      },
+      width: {
+        tirtySeven: "37%",
+        sixty: "60%",
+        100: "100px",
+        120: "120px",
+      },
+      margin: {
+        three: "3px",
+        ten: "10px",
+        thirty: "30px",
+        fifty: "50px",
+      },
+      borderRadius: {
+        custom: "20px",
+      },
+      height: {
+        100: "100px",
+        180: "180px",
+        200: "200px",
       },
       fontFamily: {
         sans: ["Hind"],
+      },
+      fontSize: {
+        26: "26px",
       },
     },
   },

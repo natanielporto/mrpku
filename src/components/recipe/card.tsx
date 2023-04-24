@@ -3,6 +3,7 @@ import { useNavigation } from "@react-navigation/native";
 import { Recipe } from "./type";
 import { RecipeNavigatorRoutesProps } from ".";
 import { Button } from "../Button/Button";
+import { LinearGradient } from "expo-linear-gradient";
 
 type Props = {
   recipe: Recipe;
@@ -16,37 +17,29 @@ export function RecipeCard({ recipe }: Props) {
   }
 
   return (
-    <TouchableOpacity
-      style={{
-        flex: 1,
-        padding: 20,
-        flexDirection: "row",
-        alignItems: "center",
-        gap: 8,
-        backgroundColor: "green",
-        height: 180,
-        borderRadius: 20,
-        justifyContent: "space-around",
-      }}
-      onPress={handleRecipeSelect}
-    >
-      <Image
-        source={{ uri: recipe.image }}
-        style={{ width: 100, height: 100, borderRadius: 4, maxWidth: "40%" }}
-      />
-      <View style={{ width: "60%" }}>
-        <Text
-          style={{
-            fontSize: 26,
-            color: "white",
-            fontWeight: 700,
-            marginBottom: 30,
-          }}
+    <View>
+      <LinearGradient
+        colors={["#0c6941", "#8bdfbb"]}
+        style={{ borderRadius: 20 }}
+        start={{ x: 0, y: 0 }}
+        end={{ x: 1, y: 1 }}
+      >
+        <TouchableOpacity
+          className="flex-1 p-5 flex-row items-center justify-around gap-2 h-180 rounded-custom w-full bg-gradient-to-r from-green-900 to-green-300"
+          onPress={handleRecipeSelect}
         >
-          {recipe.name}
-        </Text>
-        <Button />
-      </View>
-    </TouchableOpacity>
+          <Image
+            source={{ uri: recipe.image }}
+            className="w-100 h-100 rounded-custom max-w-fourty"
+          />
+          <View className="w-sixty">
+            <Text className="text-26 text-white font-bold mb-thirty">
+              {recipe.name}
+            </Text>
+            <Button />
+          </View>
+        </TouchableOpacity>
+      </LinearGradient>
+    </View>
   );
 }
