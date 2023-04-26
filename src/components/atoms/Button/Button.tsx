@@ -2,7 +2,7 @@ import React from "react";
 import { Button, View } from "react-native";
 import { styled } from "nativewind";
 
-interface BtnProps {
+interface Props {
   action: string;
   accessibilityLabel: string;
   color?: string;
@@ -15,13 +15,13 @@ const StyledButton = styled(Button);
 const defaultClass =
   "bg-yellow boxshadow w-120 h-10 flex justify-center items-center rounded-custom";
 
-const Btn = ({
+export function Btn({
   action,
   accessibilityLabel,
   onPress,
   color,
   customClass,
-}: BtnProps) => {
+}: Props) {
   return (
     <View className={customClass || defaultClass}>
       <StyledButton
@@ -32,6 +32,6 @@ const Btn = ({
       />
     </View>
   );
-};
+}
 
 export default Btn;

@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React from "react";
 import { LinearGradient as Gradient } from "expo-linear-gradient";
 
 interface Props {
@@ -6,10 +6,10 @@ interface Props {
   colors?: string[];
 }
 
-export const LinearGradient: FC<Props> = ({
+export function LinearGradient({
   children,
   colors = ["#0c6941", "#8bdfbb"],
-}) => {
+}: Props) {
   return (
     <Gradient
       colors={colors}
@@ -20,4 +20,4 @@ export const LinearGradient: FC<Props> = ({
       {children}
     </Gradient>
   );
-};
+}

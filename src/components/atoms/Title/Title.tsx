@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React from "react";
 import { View, Text } from "react-native";
 
 interface Props {
@@ -9,7 +9,7 @@ interface Props {
 
 const defaultClass = "font-bold text-2xl";
 
-export const Title: FC<Props> = ({ title, underline = false, customClass }) => {
+export function Title({ title, underline = false, customClass }: Props) {
   const titleComponent = (
     <Text className={customClass || defaultClass}>{title}</Text>
   );
@@ -21,4 +21,4 @@ export const Title: FC<Props> = ({ title, underline = false, customClass }) => {
   ) : (
     titleComponent
   );
-};
+}

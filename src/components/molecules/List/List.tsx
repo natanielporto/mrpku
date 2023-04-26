@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React from "react";
 import { View, Text, FlatList } from "react-native";
 import { Feather } from "@expo/vector-icons";
 
@@ -11,14 +11,14 @@ interface Props {
   lessTopMargin?: boolean;
 }
 
-export const List: FC<Props> = ({
+export function List({
   data,
   listTitle,
   iconName,
   iconSize = 14,
   iconColor = "green",
   lessTopMargin,
-}) => {
+}: Props) {
   const marginClasses = lessTopMargin ? "mt-2 mr-three" : "mt-three mr-three";
 
   return (
@@ -42,4 +42,4 @@ export const List: FC<Props> = ({
       />
     </View>
   );
-};
+}
