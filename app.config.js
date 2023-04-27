@@ -49,10 +49,5 @@ export default {
         },
       ],
     },
-
-    updates: {
-      url: "https://u.expo.dev/d4a14fc6-ac46-4f33-b182-9ad819913afd",
-    },
-    runtimeVersion: "1.0.0",
   },
 };
