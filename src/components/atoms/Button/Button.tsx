@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, View } from "react-native";
+import { Button as Btn, View } from "react-native";
 import { styled } from "nativewind";
 
 interface Props {
@@ -10,12 +10,12 @@ interface Props {
   onPress?: () => void;
 }
 
-const StyledButton = styled(Button);
+const StyledButton = styled(Btn);
 
 const defaultClass =
   "bg-yellow boxshadow w-120 h-10 flex justify-center items-center rounded-custom";
 
-export function Btn({
+export function Button({
   action,
   accessibilityLabel,
   onPress,
@@ -33,5 +33,3 @@ export function Btn({
     </View>
   );
 }
-
-export default Btn;

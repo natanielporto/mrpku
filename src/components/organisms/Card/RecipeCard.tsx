@@ -4,7 +4,7 @@ import {
   Recipe,
   RecipeNavigatorRoutesProps,
 } from "../../../typesAndInterfaces/types";
-import Btn from "../../atoms/Button/Button";
+import { Button } from "../../atoms/Button/Button";
 import { LinearGradient } from "../../atoms/LinearGradient/LinearGradient";
 import { Title } from "../../atoms/Title/Title";
 
@@ -35,7 +35,7 @@ export function RecipeCard({ recipe }: Props) {
               title={recipe.name}
               customClass="text-26 text-white font-bold mb-thirty"
             />
-            <Btn
+            <Button
               action="Confira"
               accessibilityLabel="Acesse a receita apertando aqui"
               onPress={handleRecipeSelect}

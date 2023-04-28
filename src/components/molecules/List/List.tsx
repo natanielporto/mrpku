@@ -25,9 +25,7 @@ export function List({
     <View>
       {listTitle ? (
         <Text className="text-base font-bold mb-ten mt-10">{listTitle}</Text>
-      ) : (
-        <Text />
-      )}
+      ) : null}
       <FlatList
         data={data}
         renderItem={({ item }) => (
