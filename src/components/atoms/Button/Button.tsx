@@ -1,17 +1,35 @@
 import React from "react";
-import { Text, TouchableOpacity } from "react-native";
+import { Button as Btn, View } from "react-native";
+import { styled } from "nativewind";
 
-interface BtnProps {
-  title: string;
-  onPress: () => {};
+interface Props {
+  action: string;
+  accessibilityLabel: string;
+  color?: string;
+  customClass?: string;
+  onPress?: () => void;
 }
 
-const Btn = ({ title, onPress }: BtnProps) => {
-  return (
-    <TouchableOpacity onPress={onPress}>
-      <Text className="text-red">{title}</Text>
-    </TouchableOpacity>
-  );
-};
+const StyledButton = styled(Btn);
 
-export default Btn;
+const defaultClass =
+  "bg-yellow boxshadow w-120 h-10 flex justify-center items-center rounded-custom";
+
+export function Button({
+  action,
+  accessibilityLabel,
+  onPress,
+  color,
+  customClass,
+}: Props) {
+  return (
+    <View className={customClass || defaultClass}>
+      <StyledButton
+        onPress={onPress}
+        title={action}
+        accessibilityLabel={accessibilityLabel}
+        color={color || "white"}
+      />
+    </View>
+  );
+}

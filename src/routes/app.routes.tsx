@@ -1,9 +1,9 @@
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Feather } from "@expo/vector-icons";
-import { HomeScreen } from "../screens/home";
-import { UserScreen } from "../screens/user";
-import { BookmarksScreen } from "../screens/bookmarks";
-import { FaqScreen } from "../screens/faq";
+import { HomeScreen } from "../components/templates/home";
+import { UserScreen } from "../components/templates/user";
+import { BookmarksScreen } from "../components/templates/bookmarks";
+import { FaqScreen } from "../components/templates/faq";
 import { Platform } from "react-native";
 
 const { Navigator, Screen } = createBottomTabNavigator();
