@@ -1,6 +1,10 @@
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Feather } from "@expo/vector-icons";
-import { HomeScreen } from "../screens/home";
+import { HomeScreen } from "../components/templates/home";
+import { UserScreen } from "../components/templates/user";
+import { BookmarksScreen } from "../components/templates/bookmarks";
+import { FaqScreen } from "../components/templates/faq";
+import { Platform } from "react-native";
 
 const { Navigator, Screen } = createBottomTabNavigator();
 
@@ -17,6 +21,7 @@ export function AppRoutes() {
           paddingBottom: 10,
           paddingTop: 10,
           elevation: 0,
+          marginBottom: Platform.OS === "ios" ? 10 : 0,
         },
       }}
     >
@@ -24,7 +29,36 @@ export function AppRoutes() {
         name="Home"
         component={HomeScreen}
         options={{
-          tabBarIcon: ({ color }) => <Feather name="home" color={color} />,
+          tabBarIcon: ({ color }) => (
+            <Feather name="home" color={color} size={36} />
+          ),
+        }}
+      />
+      <Screen
+        name="Perfil"
+        component={UserScreen}
+        options={{
+          tabBarIcon: ({ color }) => (
+            <Feather name="user" color={color} size={36} />
+          ),
+        }}
+      />
+      <Screen
+        name="Salvas"
+        component={BookmarksScreen}
+        options={{
+          tabBarIcon: ({ color }) => (
+            <Feather name="book" color={color} size={36} />
+          ),
+        }}
+      />
+      <Screen
+        name="Dúvidas"
+        component={FaqScreen}
+        options={{
+          tabBarIcon: ({ color }) => (
+            <Feather name="help-circle" color={color} size={36} />
+          ),
         }}
       />
     </Navigator>

@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react";
 import { FlatList, SafeAreaView } from "react-native";
-import { supabase } from "../../services/supabase";
-import { RecipeCard } from "./card";
-import { Recipe } from "./type";
+import { supabase } from "../../../services/supabase";
+import { Recipe } from "../../../typesAndInterfaces/types";
+import { RecipeCard } from "../Card/RecipeCard";
 
-export function RecipeList() {
+export function RecipeLists() {
   const [list, setList] = useState<Recipe[]>([]);
 
   // useEffect(() => {
@@ -25,7 +25,7 @@ export function RecipeList() {
   // });
 
   return (
-    <SafeAreaView style={{ flex: 1, backgroundColor: "#fafafa" }}>
+    <SafeAreaView className="flex-1 bg-bgLight m-6">
       <FlatList
         data={list}
         keyExtractor={(item) => item.id}
