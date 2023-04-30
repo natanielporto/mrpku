@@ -1,5 +1,5 @@
 import { useLayoutEffect, useState } from "react";
-import { FlatList, SafeAreaView } from "react-native";
+import { FlatList, SafeAreaView, View } from "react-native";
 import { RecipeService } from "../../../services/recipe";
 import { Recipe } from "../../../services/recipe/types";
 import { RecipeCard } from "../Card/RecipeCard";
@@ -20,7 +20,11 @@ export function RecipeLists() {
       <FlatList
         data={list}
         keyExtractor={(item) => item.id}
-        renderItem={({ item }) => <RecipeCard recipe={item} />}
+        renderItem={({ item }) => (
+          <View className="py-2">
+            <RecipeCard recipe={item} />
+          </View>
+        )}
       />
     </SafeAreaView>
   );

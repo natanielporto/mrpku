@@ -19,7 +19,7 @@ Sentry.init({
 export default function App() {
   return (
     <AppProvider>
-      <View style={{ flex: 1, backgroundColor: "#fafafa" }}>
+      <View className="flex-1 bg-bgLight">
         <Routes />
         <StatusBar style="dark" translucent backgroundColor="transparent" />
       </View>

@@ -1,9 +1,8 @@
-import { Image, TouchableOpacity, View } from "react-native";
+import { ScrollView, Image, TouchableOpacity, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useRoute, useNavigation } from "@react-navigation/native";
 import { Feather } from "@expo/vector-icons";
 import { useLayoutEffect, useState } from "react";
-import { List } from "../../molecules/List/List";
 import { Title } from "../../atoms/Title/Title";
 import { Recipe } from "../../../services/recipe/types";
 import { RecipeService } from "../../../services/recipe";
@@ -49,18 +48,15 @@ export function RecipeDetail() {
               className="w-full h-200 object-cover rounded-2xl"
             />
           </View>
+          <ScrollView>
+            <Title title="Ingredientes" underline />
+            {recipe.ingredients?.map((ingredient) => (
+              <Text key={ingredient}>{ingredient}</Text>
+            ))}
 
-          <Title title="Ingredientes" underline />
-
-          <List
-            data={recipe.ingredients}
-            iconName="circle"
-            iconSize={6}
-            lessTopMargin
-          />
-
-          <Title title="Modo de preparo" underline />
-          <Text>{recipe.preparation}</Text>
+            <Title title="Modo de preparo" underline />
+            <Text>{recipe.preparation}</Text>
+          </ScrollView>
         </>
       ) : (
         <View />
