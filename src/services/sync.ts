@@ -1,5 +1,6 @@
 import NetInfo from "@react-native-community/netinfo";
 import * as Sentry from "@sentry/react-native";
+import { Asset } from "expo-asset";
 import { Database } from "./database";
 import { supabase } from "./supabase";
 
@@ -54,6 +55,7 @@ export class Sync {
 
       await Promise.all(
         recipes?.map(async (recipe) => {
+          Asset.fromModule(recipe.image as string).downloadAsync();
           Database.instance.sql(
             `INSERT INTO recipe (id, name, image, ingredients, preparation, category, extra) 
            VALUES (

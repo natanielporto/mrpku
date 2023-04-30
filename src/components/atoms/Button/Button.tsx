@@ -1,6 +1,5 @@
 import React from "react";
-import { Button as Btn, View } from "react-native";
-import { styled } from "nativewind";
+import { Text, TouchableOpacity } from "react-native";
 
 interface Props {
   action: string;
@@ -10,7 +9,7 @@ interface Props {
   onPress?: () => void;
 }
 
-const StyledButton = styled(Btn);
+// const StyledButton = styled(Btn);
 
 const defaultClass =
   "bg-yellow boxshadow w-120 h-10 flex justify-center items-center rounded-custom";
@@ -23,13 +22,14 @@ export function Button({
   customClass,
 }: Props) {
   return (
-    <View className={customClass || defaultClass}>
-      <StyledButton
-        onPress={onPress}
-        title={action}
-        accessibilityLabel={accessibilityLabel}
-        color={color || "white"}
-      />
-    </View>
+    <TouchableOpacity
+      onPress={onPress}
+      className={customClass || defaultClass}
+      accessibilityLabel={accessibilityLabel}
+    >
+      <Text className="font-bold" style={{ color: color ?? "white" }}>
+        {action}
+      </Text>
+    </TouchableOpacity>
   );
 }

@@ -1,28 +1,19 @@
-import { useEffect, useState } from "react";
+import { useLayoutEffect, useState } from "react";
 import { FlatList, SafeAreaView } from "react-native";
-import { supabase } from "../../../services/supabase";
-import { Recipe } from "../../../typesAndInterfaces/types";
+import { RecipeService } from "../../../services/recipe";
+import { Recipe } from "../../../services/recipe/types";
 import { RecipeCard } from "../Card/RecipeCard";
+
+const recipeService = new RecipeService();
 
 export function RecipeLists() {
   const [list, setList] = useState<Recipe[]>([]);
 
-  // useEffect(() => {
-  //   supabase
-  //     .from("MRPKU_recipe")
-  //     .select("*")
-  //     .then(({ data, error }) => {
-  //       if (error) return;
-  //
-  //       setList(
-  //         data.map((item) => ({
-  //           id: item.id,
-  //           name: item.name,
-  //           image: item.image ?? "",
-  //         }))
-  //       );
-  //     });
-  // });
+  useLayoutEffect(() => {
+    recipeService.all().then((recipes) => {
+      setList(recipes);
+    });
+  }, []);
 
   return (
     <SafeAreaView className="flex-1 bg-bgLight m-6">
