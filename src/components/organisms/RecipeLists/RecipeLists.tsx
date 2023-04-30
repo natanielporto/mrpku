@@ -16,7 +16,7 @@ export function RecipeLists() {
   }, []);
 
   return (
-    <SafeAreaView className="flex-1 bg-bgLight m-6">
+    <SafeAreaView className="flex-1 bg-bgLight p-6">
       <FlatList
         data={list}
         keyExtractor={(item) => item.id}
