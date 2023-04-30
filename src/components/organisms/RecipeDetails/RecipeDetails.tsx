@@ -1,30 +1,18 @@
-import { Image, TouchableOpacity, View } from "react-native";
+import { ScrollView, Image, TouchableOpacity, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useRoute, useNavigation } from "@react-navigation/native";
 import { Feather } from "@expo/vector-icons";
 import { useLayoutEffect, useState } from "react";
-import { Recipe } from "../../../typesAndInterfaces/types";
-import { supabase } from "../../../services/supabase";
-import { List } from "../../molecules/List/List";
 import { Title } from "../../atoms/Title/Title";
-
-const fakeRecipe = [
-  "Polpa de 1 abacate maduro e firme amassada com um garfo e regada com suco de limão para não escurecer;",
-  "1/2 cebola roxa picadinha;",
-  "1/2 pimenta dedo-de-moça picadinha;",
-  "Azeite de oliva e sal a gosto;",
-  "Licor ou suco de laranja a gosto.",
-];
-
-const fakePreparation = [
-  "Misture o abacate com a cebola e a pimenta.",
-  "Tempere com azeite e sal e incorpore licor ou suco de laranja a gosto.",
-  "Sirva em pequenas taças, decoradas, se desejar, com legumescrus em palitos.",
-];
+import { Recipe } from "../../../services/recipe/types";
+import { RecipeService } from "../../../services/recipe";
+import { Text } from "../../atoms/text";
 
 type RouteParamsProps = {
   recipeId: string;
 };
+
+const recipeSerivce = new RecipeService();
 
 export function RecipeDetail() {
   const [recipe, setRecipe] = useState<Recipe>({} as Recipe);
@@ -39,14 +27,9 @@ export function RecipeDetail() {
   }
 
   useLayoutEffect(() => {
-    supabase
-      .from("MRPKU_recipe")
-      .select("*")
-      .eq("id", recipeId)
-      .single()
-      .then(({ data, error }) => {
-        setRecipe(data as Recipe);
-      });
+    recipeSerivce.getById(recipeId).then((recipe) => {
+      setRecipe(recipe);
+    });
   }, [recipeId]);
 
   return (
@@ -65,21 +48,15 @@ export function RecipeDetail() {
               className="w-full h-200 object-cover rounded-2xl"
             />
           </View>
+          <ScrollView>
+            <Title title="Ingredientes" underline />
+            {recipe.ingredients?.map((ingredient) => (
+              <Text key={ingredient}>{ingredient}</Text>
+            ))}
 
-          <Title title="Ingredientes" underline />
-
-          <List
-            data={fakeRecipe}
-            iconName="circle"
-            iconSize={6}
-            lessTopMargin
-          />
-
-          <List
-            data={fakePreparation}
-            iconName="check"
-            listTitle="Modo de preparo:"
-          />
+            <Title title="Modo de preparo" underline />
+            <Text>{recipe.preparation}</Text>
+          </ScrollView>
         </>
       ) : (
         <View />

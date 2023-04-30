@@ -1,12 +1,10 @@
 import { Image, TouchableOpacity, View } from "react-native";
 import { useNavigation } from "@react-navigation/native";
-import {
-  Recipe,
-  RecipeNavigatorRoutesProps,
-} from "../../../typesAndInterfaces/types";
+import { RecipeNavigatorRoutesProps } from "../../../typesAndInterfaces/types";
 import { Button } from "../../atoms/Button/Button";
 import { LinearGradient } from "../../atoms/LinearGradient/LinearGradient";
 import { Title } from "../../atoms/Title/Title";
+import { Recipe } from "../../../services/recipe/types";
 
 type Props = {
   recipe: Recipe;

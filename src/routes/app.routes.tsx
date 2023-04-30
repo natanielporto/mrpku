@@ -7,6 +7,7 @@ import { FaqScreen } from "../components/templates/faq";
 import { Platform } from "react-native";
 
 const { Navigator, Screen } = createBottomTabNavigator();
+const ICON_SIZE = 24;
 
 export function AppRoutes() {
   return (
@@ -20,8 +21,9 @@ export function AppRoutes() {
           borderTopWidth: 0,
           paddingBottom: 10,
           paddingTop: 10,
+          height: Platform.OS === "ios" ? 80 : 60,
           elevation: 0,
-          marginBottom: Platform.OS === "ios" ? 10 : 0,
+          marginBottom: Platform.OS === "ios" ? 10 : 5,
         },
       }}
     >
@@ -30,7 +32,7 @@ export function AppRoutes() {
         component={HomeScreen}
         options={{
           tabBarIcon: ({ color }) => (
-            <Feather name="home" color={color} size={36} />
+            <Feather name="home" color={color} size={ICON_SIZE} />
           ),
         }}
       />
@@ -39,7 +41,7 @@ export function AppRoutes() {
         component={UserScreen}
         options={{
           tabBarIcon: ({ color }) => (
-            <Feather name="user" color={color} size={36} />
+            <Feather name="user" color={color} size={ICON_SIZE} />
           ),
         }}
       />
@@ -48,7 +50,7 @@ export function AppRoutes() {
         component={BookmarksScreen}
         options={{
           tabBarIcon: ({ color }) => (
-            <Feather name="book" color={color} size={36} />
+            <Feather name="book" color={color} size={ICON_SIZE} />
           ),
         }}
       />
@@ -57,7 +59,7 @@ export function AppRoutes() {
         component={FaqScreen}
         options={{
           tabBarIcon: ({ color }) => (
-            <Feather name="help-circle" color={color} size={36} />
+            <Feather name="help-circle" color={color} size={ICON_SIZE} />
           ),
         }}
       />

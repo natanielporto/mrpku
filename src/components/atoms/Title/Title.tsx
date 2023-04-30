@@ -7,7 +7,7 @@ interface Props {
   customClass?: string;
 }
 
-const defaultClass = "font-bold text-2xl";
+const defaultClass = "w-full font-bold text-2xl";
 
 export function Title({ title, underline = false, customClass }: Props) {
   const titleComponent = (
@@ -15,7 +15,7 @@ export function Title({ title, underline = false, customClass }: Props) {
   );
 
   return underline ? (
-    <View className="border-b-4 border-b-green mt-fifty mb-ten w-tirtySeven">
+    <View className="border-b-4 border-b-green mt-fifty mb-ten">
       {titleComponent}
     </View>
   ) : (
