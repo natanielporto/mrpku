@@ -9,12 +9,6 @@ import { Recipe } from "../../../services/recipe/types";
 import { RecipeService } from "../../../services/recipe";
 import { Text } from "../../atoms/text";
 
-const fakePreparation = [
-  "Misture o abacate com a cebola e a pimenta.",
-  "Tempere com azeite e sal e incorpore licor ou suco de laranja a gosto.",
-  "Sirva em pequenas taças, decoradas, se desejar, com legumescrus em palitos.",
-];
-
 type RouteParamsProps = {
   recipeId: string;
 };
