@@ -62,7 +62,7 @@ export class Sync {
             '${recipe.id}', 
             '${recipe.name}', 
             '${recipe.image}',
-            '${JSON.stringify(recipe.ingredients)}', 
+            '${recipe.ingredients}', 
             '${recipe.preparation}', 
             '${recipe.category}', 
             '${recipe.extra}'
