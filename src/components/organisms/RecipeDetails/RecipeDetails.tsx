@@ -50,9 +50,7 @@ export function RecipeDetail() {
           </View>
           <ScrollView>
             <Title title="Ingredientes" underline />
-            {recipe.ingredients?.map((ingredient) => (
-              <Text key={ingredient}>{ingredient}</Text>
-            ))}
+            <Text>{recipe.ingredients}</Text>
 
             <Title title="Modo de preparo" underline />
             <Text>{recipe.preparation}</Text>
