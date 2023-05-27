@@ -1,4 +1,4 @@
-import { ScrollView, Image, TouchableOpacity, View } from "react-native";
+import { ScrollView, Image, TouchableOpacity, View, Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useRoute, useNavigation } from "@react-navigation/native";
 import { Feather } from "@expo/vector-icons";
@@ -6,7 +6,7 @@ import { useLayoutEffect, useMemo, useState } from "react";
 import { Title } from "../../atoms/Title/Title";
 import { Recipe } from "../../../services/recipe/types";
 import { RecipeService } from "../../../services/recipe";
-import { Text } from "../../atoms/Text";
+// import { Text } from "../../atoms/Text";
 
 type RouteParamsProps = {
   recipeId: string;

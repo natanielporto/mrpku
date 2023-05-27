@@ -1,5 +1,4 @@
 import NetInfo from "@react-native-community/netinfo";
-import * as Sentry from "@sentry/react-native";
 import { Asset } from "expo-asset";
 import { Database } from "./database";
 import { supabase } from "./supabase";
@@ -80,7 +79,6 @@ export class Sync {
       console.log(`Synced to version ${remote}`);
     } catch (error) {
       console.log(error);
-      Sentry.captureException(error);
     }
   }
 }
