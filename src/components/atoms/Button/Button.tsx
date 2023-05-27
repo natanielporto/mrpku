@@ -9,10 +9,8 @@ interface Props {
   onPress?: () => void;
 }
 
-// const StyledButton = styled(Btn);
-
 const defaultClass =
-  "bg-yellow boxshadow w-120 h-10 flex justify-center items-center rounded-custom";
+  "bg-amber-500 boxshadow h-8 justify-center items-center rounded-custom";
 
 export function Button({
   action,
@@ -26,6 +24,7 @@ export function Button({
       onPress={onPress}
       className={customClass || defaultClass}
       accessibilityLabel={accessibilityLabel}
+      style={{ elevation: 2 }}
     >
       <Text className="font-bold" style={{ color: color ?? "white" }}>
         {action}

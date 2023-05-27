@@ -5,5 +5,7 @@ interface Props {
 }
 
 export function TemplateWrapper({ children }: Props) {
-  return <SafeAreaView className="flex-1">{children}</SafeAreaView>;
+  return (
+    <SafeAreaView className="flex-1 h-full bg-bgLight">{children}</SafeAreaView>
+  );
 }

@@ -61,7 +61,7 @@ export class Sync {
            VALUES (
             '${recipe.id}', 
             '${recipe.name}', 
-            '${recipe.image}',
+            '${recipe.image || ""}',
             '${JSON.stringify(recipe.ingredients)}', 
             '${recipe.preparation}', 
             '${recipe.category}', 

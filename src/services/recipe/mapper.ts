@@ -8,7 +8,7 @@ export class RecipeMapper {
       category: recipe.category,
       ingredients: JSON.parse(recipe.ingredients),
       preparation: recipe.preparation,
-      image: recipe.image,
+      image: recipe.image || "",
     };
   }
 }
