@@ -1,0 +1,142 @@
+[
+  {
+    "category": "Bebidas e cremes",
+    "recipies": [
+      {
+        "id": 1,
+        "name": "Bebida de morango tipo iogurte",
+        "ingredients": [
+          "480g de bebida vegetal a base de arroz",
+          "60g de açúcar demerara",
+          "50g de morango congelado",
+          "15g de suco de limão",
+          "5g de ágar-ágar"
+        ],
+        "preparation": [
+          "1- Em uma panela, misture 380g da bebida vegetal junto com o açúcar e o ágar-ágar, deixe ferver por uns 2 minutos mexendo sempre;",
+          "2- Leve à geladeira por aproximadamente uma hora para gelatinizar;",
+          "3- Corte os morangos em pedaços e bata junto com creme gelado, o suco de limão e o restante da bebida vegetal com o auxílio de um mixer ou liquidificador;",
+          "4- Coloque em tacinhas para servir."
+        ],
+        "servings": "2 taças",
+        "nutritionalInformation": [
+          { "totalEnergy": 614, "servingEnergy": 307 },
+          { "totalCarbs": 137, "servingCarbs": 69 },
+          { "totalProteins": 2.2, "servingProteins": 1.1 },
+          { "totalLipids": 8, "servingLipids": 6 },
+          { "totalSodium": 153, "servingSodium": 77 },
+          { "totalPotassium": 75, "servingPotassium": 38 }
+        ],
+        "graphInformation": [
+          { "leucine": 44, "totalLeucine": 200, "servingLeucine": 100 },
+          { "tirosine": 18, "totalTirosine": 80, "servingTirosine": 40 },
+          { "fenil": 27, "totalFenil": 120, "servingFenil": 60 },
+          { "metiotine": 11, "totalMetiotine": 50, "servingMetiotine": 25 }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Flan de baunilha",
+        "ingredients": [
+          "250ml de água",
+          "50g de açúcar",
+          "40g de creme de leite",
+          "30g de flan de baunilha em pó"
+        ],
+        "preparation": [
+          "1- Coloque todos os ingredientes em uma panela pequena e leve ao fogo baixo, mexa até engrossar;",
+          "2- Distribua a mistura em tacinhas e leve para gelar;",
+          "3- Faça uma calda de caramelo à parte, se desejar."
+        ],
+        "servings": "3 taças",
+        "nutritionalInformation": [
+          { "totalEnergy": 406, "servingEnergy": 135 },
+          { "totalCarbs": 80, "servingCarbs": 27 },
+          { "totalProteins": 1.0, "servingProteins": 0.3 },
+          { "totalLipids": 10, "servingLipids": 3 },
+          { "totalSodium": 56, "servingSodium": 19 },
+          { "totalPotassium": 47, "servingPotassium": 16 }
+        ],
+        "graphInformation": [
+          { "leucine": 45, "totalLeucine": 100, "servingLeucine": 33 },
+          { "tirosine": 23, "totalTirosine": 50, "servingTirosine": 17 },
+          { "fenil": 23, "totalFenil": 50, "servingFenil": 17 },
+          { "metiotine": 9, "totalMetiotine": 20, "servingMetiotine": 7 }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Biscoitos e bolachas",
+    "recipies": [
+      {
+        "id": 3,
+        "name": "Biscoitinho crocante de tapioca",
+        "ingredients": [
+          "80g de tapioca granulada",
+          "20g de açúcar",
+          "20g de achocolatado",
+          "10g de margarina sem sal",
+          "10g de creme de leite",
+          "55ml de água quente",
+          "120g de gotas de chocolate "
+        ],
+        "preparation": [
+          "1- Misture todos os ingredientes, exceto as gotas de chocolate, e deixe hidratando por cerca de 10 minutos para que a tapioca fique mais macia;",
+          "2- Abra a massa entre papel manteiga e use um copo para formatar os biscoitos;",
+          "3- Unte uma forma com margarina e disponha os biscoitos;",
+          "4- Leve para assar no forno a 200°C por aproximadamente 20 minutos;",
+          "5- Derreta as gotas de chocolate em banho-maria;",
+          "6- Mergulhe os biscoitos já frios no chocolate e coloque sobre um pedaço de papel manteiga para não grudar"
+        ],
+        "servings": "10 unidades",
+        "nutritionalInformation": [
+          { "totalEnergy": 1122, "servingEnergy": 112 },
+          { "totalCarbs": 191, "servingCarbs": 19 },
+          { "totalProteins": 1.7, "servingProteins": 0.2 },
+          { "totalLipids": 39, "servingLipids": 4 },
+          { "totalSodium": 65, "servingSodium": 6 },
+          { "totalPotassium": 21, "servingPotassium": 2 }
+        ],
+        "graphInformation": [
+          { "leucine": 45, "totalLeucine": 130, "servingLeucine": 13 },
+          { "tirosine": 21, "totalTirosine": 60, "servingTirosine": 6 },
+          { "fenil": 27, "totalFenil": 80, "servingFenil": 8 },
+          { "metiotine": 7, "totalMetiotine": 20, "servingMetiotine": 2 }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Sequilho de coco",
+        "ingredients": [
+          "40g de açúcar refinado",
+          "180g de amido de milho",
+          "40g de farinha sem glúten",
+          "150g de margarina sem sal",
+          "12g de coco seco ralado"
+        ],
+        "preparation": [
+          "1- Em um recipiente, junte todos os ingredientes e amasse com as mãos até obter uma massa homogênea;",
+          "2- Abra a massa por cima de um plástico e com o auxílio de um rolo;",
+          "3- Corte no formato que desejar e disponha em uma assadeira;",
+          "4- Asse a 180°C por aproximadamente 30 minutos ou até os biscoitos ficarem dourados."
+        ],
+        "servings": "40 unidades",
+        "nutritionalInformation": [
+          { "totalEnergy": 1547, "servingEnergy": 39 },
+          { "totalCarbs": 242, "servingCarbs": 6 },
+          { "totalProteins": 2.1, "servingProteins": 0.1 },
+          { "totalLipids": 62, "servingLipids": 2 },
+          { "totalSodium": 922, "servingSodium": 23 },
+          { "totalPotassium": 71, "servingPotassium": 2 }
+        ],
+        "graphInformation": [
+          { "leucine": 46, "totalLeucine": 200, "servingLeucine": 5 },
+          { "tirosine": 16, "totalTirosine": 70, "servingTirosine": 2 },
+          { "fenil": 26, "totalFenil": 110, "servingFenil": 3 },
+          { "metiotine": 12, "totalMetiotine": 50, "servingMetiotine": 1 }
+        ]
+      }
+    ]
+  }
+]

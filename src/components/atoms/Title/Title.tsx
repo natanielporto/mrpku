@@ -8,7 +8,7 @@ interface Props {
   classes?: string;
 }
 
-const defaultClass = "w-full font-bold text-2xl";
+const defaultClass = "w-full";
 
 export function Title({
   title,
@@ -17,7 +17,12 @@ export function Title({
   classes,
 }: Props) {
   const titleComponent = (
-    <Text className={customClass || defaultClass}>{title}</Text>
+    <Text
+      style={{ fontFamily: "HammersmithOne_400Regular" }}
+      className={customClass || defaultClass}
+    >
+      {title}
+    </Text>
   );
 
   return underline ? (

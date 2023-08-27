@@ -6,7 +6,7 @@ export class RecipeMapper {
       id: recipe.id,
       name: recipe.name,
       category: recipe.category,
-      ingredients: JSON.parse(recipe.ingredients),
+      ingredients: recipe.ingredients,
       preparation: recipe.preparation,
       image: recipe.image || "",
     };

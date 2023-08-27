@@ -25,5 +25,6 @@ export function FaqScreen() {
     () => fakeFaq.map((faq) => <FaqDropdown key={faq.question} {...faq} />),
     []
   );
+
   return <TemplateWrapper>{renderQuestions}</TemplateWrapper>;
 }

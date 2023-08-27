@@ -5,18 +5,19 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        green: "#0C6941",
-        pink: "#DCB7AC",
-        red: "#99153A",
-        orange: "#FFCB4B",
-        yellow: "#FFB800",
-        white: "#FFF",
-        lightGreen: "#8BDFBB",
-        grey50: "#A0A0A0",
-        grey100: "#C1C1C1",
+        primaryGreen: "#3F7410",
+        primaryPink: "#DCB7AC",
+        primaryBrown: "#7D5B3C",
+        primaryRed: "#99153A",
+        primaryDangerRed: "#EE1600",
+        primaryLightOrange: "#FFECE1",
+        primaryWhite: "#FFF",
+        primaryDark: "#000101",
+        primaryLightGreen: "#8BDFBB",
+        primaryGrey50: "#A0A0A0",
+        primaryGrey100: "#C1C1C1",
 
-        bgLight: "#FAFAFA",
-
+        bgLight: "#F2F1EF",
         boxshadow: "box-shadow: 0 3px 1px -2px rgba(0 0 0 0 .1)",
       },
 
@@ -43,9 +44,6 @@ module.exports = {
         100: "100px",
         180: "180px",
         200: "200px",
-      },
-      fontFamily: {
-        sans: ["Hind"],
       },
       fontSize: {
         26: "26px",

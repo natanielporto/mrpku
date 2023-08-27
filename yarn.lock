@@ -1097,6 +1097,16 @@
   dependencies:
     "@types/hammerjs" "^2.0.36"
 
+"@expo-google-fonts/amaranth@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/amaranth/-/amaranth-0.2.3.tgz#73cc960fde914f224f90989a0204a4a3a33ed14c"
+  integrity sha512-S5oDx4COSl4NBBkzF8W11N6F4EJjHKZ2Z31ZL08qPgsycpc0HC0011Z/oRs4ohQoKgQwtZjvOGQbq1Ss//Ytxg==
+
+"@expo-google-fonts/hammersmith-one@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/hammersmith-one/-/hammersmith-one-0.2.3.tgz#dc1844e22698a305b065bd2bdc439a14581678c8"
+  integrity sha512-63pBeXP69NvZ0WlE0nnhEa7PNou4mgjxgRL0ntYKuzq/Q23eoOyqy1MTNHRdqfZMiAy/hMLRcxC9/U0LHa5LBg==
+
 "@expo-google-fonts/hind@^0.2.3":
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/@expo-google-fonts/hind/-/hind-0.2.3.tgz#36274bb427d24825497dad531880a391e25671b3"
@@ -6524,6 +6534,11 @@ react-native-codegen@^0.71.5:
     jscodeshift "^0.13.1"
     nullthrows "^1.1.1"
 
+react-native-error-boundary@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/react-native-error-boundary/-/react-native-error-boundary-1.2.3.tgz#0c9261c2f7ab97222e0a0101852189f140c5f6e7"
+  integrity sha512-Cg5sEToVpayv+s6mCPidRO48DswjOaaxbt1sOiVC+8nJ/tVUPXFkT1iCkZbG0E1eVr+LM9NXsAfOGiwvZZBCJA==
+
 react-native-gesture-handler@~2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.9.0.tgz#2f63812e523c646f25b9ad660fc6f75948e51241"
@@ -6583,6 +6598,11 @@ react-native-svg@13.4.0:
   dependencies:
     css-select "^5.1.0"
     css-tree "^1.1.3"
+
+react-native-toast-message@^2.1.6:
+  version "2.1.6"
+  resolved "https://registry.yarnpkg.com/react-native-toast-message/-/react-native-toast-message-2.1.6.tgz#322827c66901fa22cb3db614c7383cc717f5bbe2"
+  integrity sha512-VctXuq20vmRa9AE13acaNZhrLcS3FaBS2zEevS3+vhBsnVZYG0FIlWIis9tVnpnNxUb3ART+BWtwQjzSttXTng==
 
 react-native-url-polyfill@^1.3.0:
   version "1.3.0"

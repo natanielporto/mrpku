@@ -32,13 +32,13 @@ export function RecipeDetail() {
     });
   }, [recipeId]);
 
-  const recipes = useMemo(
-    () =>
-      recipe.ingredients?.map((ingredient) => (
-        <Text key={ingredient}>{ingredient}</Text>
-      )),
-    [recipe]
-  );
+  // const recipes = useMemo(
+  //   () =>
+  //     recipe.ingredients?.map((ingredient) => (
+  //       <Text key={ingredient}>{ingredient}</Text>
+  //     )),
+  //   [recipe]
+  // );
 
   return (
     <SafeAreaView className="flex-1 px-5 bg-bgLight">
@@ -60,7 +60,8 @@ export function RecipeDetail() {
           </View>
           <ScrollView className="bg-red">
             <Title title="Ingredientes" underline />
-            {recipes}
+            <Text>{recipe.ingredients}</Text>
+
             <Title title="Modo de preparo" underline />
             <Text>{recipe.preparation}</Text>
           </ScrollView>

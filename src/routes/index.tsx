@@ -2,23 +2,18 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { NavigationContainer } from "@react-navigation/native";
 import { AppRoutes } from "./app.routes";
 import { useSync } from "../hooks/use-sync";
-import { ActivityIndicator, View, StatusBar } from "react-native";
-import { useFonts } from "expo-font";
+import { ActivityIndicator, View } from "react-native";
+import { Hind_400Regular, Hind_700Bold } from "@expo-google-fonts/hind";
 import {
-  Hind_300Light,
-  Hind_400Regular,
-  Hind_500Medium,
-  Hind_600SemiBold,
-  Hind_700Bold,
-} from "@expo-google-fonts/hind";
+  HammersmithOne_400Regular,
+  useFonts,
+} from "@expo-google-fonts/hammersmith-one";
 
 export function Routes() {
   const [isFontsLoaded] = useFonts({
-    Hind_300Light,
     Hind_400Regular,
-    Hind_500Medium,
-    Hind_600SemiBold,
     Hind_700Bold,
+    HammersmithOne_400Regular,
   });
 
   const { isSyncing } = useSync();

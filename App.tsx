@@ -3,7 +3,6 @@ import { StatusBar } from "expo-status-bar";
 import { Routes } from "./src/routes";
 import { View } from "react-native";
 import { AppProvider } from "./src/context";
-import Constants from "expo-constants";
 import "react-native-gesture-handler";
 import "react-native-get-random-values";
 

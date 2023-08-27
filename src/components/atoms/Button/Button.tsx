@@ -10,7 +10,7 @@ interface Props {
 }
 
 const defaultClass =
-  "bg-amber-500 boxshadow h-8 justify-center items-center rounded-custom";
+  "bg-amber-500 boxshadow h-8 justify-center items-center rounded-custom px-3";
 
 export function Button({
   action,
@@ -26,7 +26,7 @@ export function Button({
       accessibilityLabel={accessibilityLabel}
       style={{ elevation: 2 }}
     >
-      <Text className="font-bold" style={{ color: color ?? "white" }}>
+      <Text className="" style={{ color: color ?? "white" }}>
         {action}
       </Text>
     </TouchableOpacity>
