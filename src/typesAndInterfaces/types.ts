@@ -6,6 +6,12 @@ export type RecipeRoute = {
   list: {
     from: "home" | "favorites";
   };
+  drinksAndCreams: {
+    from: "home";
+  };
+  biscuitsAndCrackers: {
+    from: "home";
+  };
   detail: {
     recipeId: string;
   };

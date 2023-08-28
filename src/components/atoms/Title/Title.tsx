@@ -26,7 +26,7 @@ export function Title({
   );
 
   return underline ? (
-    <View className={`border-b-4 border-b-green mb-ten ${classes}`}>
+    <View className={`border-b-2 border-b-green mb-ten ${classes}`}>
       {titleComponent}
     </View>
   ) : (

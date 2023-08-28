@@ -2,54 +2,36 @@ import { ScrollView, Image, TouchableOpacity, View, Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useRoute, useNavigation } from "@react-navigation/native";
 import { Feather } from "@expo/vector-icons";
-import { useLayoutEffect, useMemo, useState } from "react";
 import { Title } from "../../atoms/Title/Title";
 import { Recipe } from "../../../services/recipe/types";
-import { RecipeService } from "../../../services/recipe";
-// import { Text } from "../../atoms/Text";
 
 type RouteParamsProps = {
-  recipeId: string;
+  recipe: Recipe;
 };
 
-const recipeSerivce = new RecipeService();
-
 export function RecipeDetail() {
-  const [recipe, setRecipe] = useState<Recipe>({} as Recipe);
-
   const navigation = useNavigation();
   const route = useRoute();
 
-  const { recipeId } = route.params as RouteParamsProps;
+  const { recipe } = route.params as RouteParamsProps;
 
   function handleGoBack() {
     navigation.goBack();
   }
 
-  useLayoutEffect(() => {
-    recipeSerivce.getById(recipeId).then((recipe) => {
-      setRecipe(recipe);
-    });
-  }, [recipeId]);
-
-  // const recipes = useMemo(
-  //   () =>
-  //     recipe.ingredients?.map((ingredient) => (
-  //       <Text key={ingredient}>{ingredient}</Text>
-  //     )),
-  //   [recipe]
-  // );
-
   return (
     <SafeAreaView className="flex-1 px-5 bg-bgLight">
       {recipe ? (
         <View>
-          <View className="bg-orange mb-4">
+          <View className="mb-4">
             <View className="flex-row items-center mb-4">
-              <TouchableOpacity onPress={handleGoBack} className="mr-1">
+              <TouchableOpacity
+                onPress={handleGoBack}
+                className="mr-1 flex flex-row items-center"
+              >
                 <Feather name="arrow-left" size={24} color="#888" />
+                <Title title={recipe.name} />
               </TouchableOpacity>
-              <Title title={recipe.name} />
             </View>
             <View>
               <Image
@@ -58,12 +40,30 @@ export function RecipeDetail() {
               />
             </View>
           </View>
-          <ScrollView className="bg-red">
+          <ScrollView
+            contentContainerStyle={{
+              flexGrow: 1,
+            }}
+          >
             <Title title="Ingredientes" underline />
-            <Text>{recipe.ingredients}</Text>
+            <View className="bg-white p-4 rounded-2xl">
+              {recipe.ingredients.map((item) => (
+                <Text className="mb-2" key={item}>
+                  {item}
+                </Text>
+              ))}
+            </View>
+
+            <View className="mt-2" />
 
             <Title title="Modo de preparo" underline />
-            <Text>{recipe.preparation}</Text>
+            <View className="bg-white p-4 rounded-2xl">
+              {recipe.preparation.map((item) => (
+                <Text className="mb-2" key={item}>
+                  {item}
+                </Text>
+              ))}
+            </View>
           </ScrollView>
         </View>
       ) : null}

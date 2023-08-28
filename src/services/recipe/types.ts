@@ -1,4 +1,4 @@
-export enum Category {
+export enum Categories {
   drinksAndCreams = "Bebidas e cremes",
   biscuitsAndCrackers = "Biscoitos e bolachas",
 }
@@ -35,9 +35,16 @@ interface GraphInfo {
 export interface Recipe {
   id: number;
   name: string;
+  image: string;
   ingredients: string[];
   preparation: string[];
   servings: string;
   nutritionalInformation: NutritionalInfo[];
   graphInformation: GraphInfo[];
+}
+
+export interface MajorCategory {
+  category: Categories;
+  image: string;
+  recipe: Recipe[];
 }

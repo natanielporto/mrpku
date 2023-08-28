@@ -1,29 +1,34 @@
 import { Text, TouchableOpacity, View, Image } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
-import { Recipe } from "../../../services/recipe/types";
-
+import { MajorCategory, Recipe } from "../../../services/recipe/types";
+import { useNavigation } from "@react-navigation/native";
+import { RecipeNavigatorRoutesProps } from "../../../typesAndInterfaces/types";
+import { useRef } from "react";
+import { ButtonCard } from "../../atoms/ButtonCard/ButtonCard";
 interface Data {
-  data: {
-    category: string;
-    recipies: Recipe[];
-  };
+  data: MajorCategory;
 }
 
 export const CategoryCard = ({ data }: Data) => {
-  console.log(data);
+  const navigation = useNavigation<RecipeNavigatorRoutesProps>();
 
-  const handleCategoriesSelect = () => {};
+  const handleCategoriesSelect = (text: string) => {
+    if (text === "Bebidas e cremes")
+      navigation.navigate("drinksAndCreams", { category: data.category });
+
+    if (text === "Biscoitos e bolachas")
+      navigation.navigate("biscuitsAndCrackers", { category: data.category });
+
+    // navigation.navigate("", { category: data.category });
+    // navigation.navigate("detail", { recipeId: id });
+  };
 
   return (
-    <TouchableOpacity
-      className="flex-1 flex-row rounded-3xl bg-green-50 h-[140] w-[93%] mx-auto relative"
+    <ButtonCard
+      category={data.category}
+      image={data.image}
       onPress={handleCategoriesSelect}
-    >
-      <View className="transform rotate-[20deg] mt-8 absolute right-[-23px]">
-        <Ionicons name="leaf-outline" size={95} color="#F2F1EF" />
-      </View>
-      <Text>{data?.category}</Text>
-      {/* <Image source={{ uri: image }} /> */}
-    </TouchableOpacity>
+      key={data.category}
+    />
   );
 };

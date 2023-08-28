@@ -1,10 +1,12 @@
 [
   {
     "category": "Bebidas e cremes",
-    "recipies": [
+    "image": "https://images.unsplash.com/photo-1583898350727-9bf2e476c242?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    "recipes": [
       {
         "id": 1,
         "name": "Bebida de morango tipo iogurte",
+        "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
         "ingredients": [
           "480g de bebida vegetal a base de arroz",
           "60g de açúcar demerara",
@@ -37,6 +39,7 @@
       {
         "id": 2,
         "name": "Flan de baunilha",
+        "image": "https://images.unsplash.com/photo-1586601399668-cd0c1484cd44?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
         "ingredients": [
           "250ml de água",
           "50g de açúcar",
@@ -68,10 +71,12 @@
   },
   {
     "category": "Biscoitos e bolachas",
-    "recipies": [
+    "image": "https://images.unsplash.com/photo-1582231640551-2103f0b3f4bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    "recipes": [
       {
         "id": 3,
         "name": "Biscoitinho crocante de tapioca",
+        "image": "https://images.unsplash.com/photo-1608070735103-35aa01048704?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
         "ingredients": [
           "80g de tapioca granulada",
           "20g de açúcar",
@@ -108,6 +113,7 @@
       {
         "id": 4,
         "name": "Sequilho de coco",
+        "image": "https://images.unsplash.com/photo-1590671886400-8f8088b97cb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
         "ingredients": [
           "40g de açúcar refinado",
           "180g de amido de milho",
