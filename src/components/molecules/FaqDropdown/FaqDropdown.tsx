@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { View, Text, Pressable } from "react-native";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
-import { TouchableOpacity } from "react-native-gesture-handler";
 
 interface Props {
   question: string;

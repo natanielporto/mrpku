@@ -1,7 +1,8 @@
+import { ReactNode } from "react";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 interface Props {
-  children: JSX.Element;
+  children: ReactNode;
 }
 
 export function TemplateWrapper({ children }: Props) {

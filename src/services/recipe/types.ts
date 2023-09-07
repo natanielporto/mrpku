@@ -1,8 +1,9 @@
 export enum Categories {
   drinksAndCreams = "Bebidas e cremes",
   biscuitsAndCrackers = "Biscoitos e bolachas",
+  cakesAndLittleCakes = "Bolos e bolinhos",
 }
-interface NutritionalInfo {
+export interface NutritionalInfo {
   totalEnergy: number;
   servingEnergy: number;
   totalCarbs: number;

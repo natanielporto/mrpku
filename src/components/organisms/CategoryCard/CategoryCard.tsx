@@ -19,6 +19,9 @@ export const CategoryCard = ({ data }: Data) => {
     if (text === "Biscoitos e bolachas")
       navigation.navigate("biscuitsAndCrackers", { category: data.category });
 
+    if (text === "Bolos e bolinhos")
+      navigation.navigate("cakesAndLittleCakes", { category: data.category });
+
     // navigation.navigate("", { category: data.category });
     // navigation.navigate("detail", { recipeId: id });
   };

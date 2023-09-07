@@ -4,6 +4,7 @@ import { useRoute, useNavigation } from "@react-navigation/native";
 import { Feather } from "@expo/vector-icons";
 import { Title } from "../../atoms/Title/Title";
 import { Recipe } from "../../../services/recipe/types";
+import { Table } from "../../molecules/Table/Table";
 
 type RouteParamsProps = {
   recipe: Recipe;
@@ -22,7 +23,7 @@ export function RecipeDetail() {
   return (
     <SafeAreaView className="flex-1 px-5 bg-bgLight">
       {recipe ? (
-        <View>
+        <View className="flex-1">
           <View className="mb-4">
             <View className="flex-row items-center mb-4">
               <TouchableOpacity
@@ -40,11 +41,7 @@ export function RecipeDetail() {
               />
             </View>
           </View>
-          <ScrollView
-            contentContainerStyle={{
-              flexGrow: 1,
-            }}
-          >
+          <ScrollView>
             <Title title="Ingredientes" underline />
             <View className="bg-white p-4 rounded-2xl">
               {recipe.ingredients.map((item) => (
@@ -56,6 +53,15 @@ export function RecipeDetail() {
 
             <View className="mt-2" />
 
+            <View>
+              <Title title={"Rendimento"} underline />
+              <View className="bg-white p-4 rounded-2xl">
+                <Text>{recipe.servings}</Text>
+              </View>
+            </View>
+
+            <View className="mt-2" />
+
             <Title title="Modo de preparo" underline />
             <View className="bg-white p-4 rounded-2xl">
               {recipe.preparation.map((item) => (
@@ -63,6 +69,9 @@ export function RecipeDetail() {
                   {item}
                 </Text>
               ))}
+            </View>
+            <View className="mt-2">
+              <Table nutritionalInformation={recipe.nutritionalInformation} />
             </View>
           </ScrollView>
         </View>

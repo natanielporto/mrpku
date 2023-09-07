@@ -21,6 +21,7 @@ export function Recipe() {
       />
       <Screen name="drinksAndCreams" component={RecipeLists} />
       <Screen name="biscuitsAndCrackers" component={RecipeLists} />
+      <Screen name="cakesAndLittleCakes" component={RecipeLists} />
       <Screen name="detail" component={RecipeDetail} />
     </Navigator>
   );

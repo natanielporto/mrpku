@@ -5,6 +5,7 @@ import { UserScreen } from "../components/templates/user";
 import { BookmarksScreen } from "../components/templates/bookmarks";
 import { FaqScreen } from "../components/templates/faq";
 import { Platform } from "react-native";
+import { CalculatorScreen } from "../components/templates/calculator";
 
 const { Navigator, Screen } = createBottomTabNavigator();
 const ICON_SIZE = 35;
@@ -18,6 +19,7 @@ export function AppRoutes() {
         tabBarInactiveTintColor: "white",
         tabBarStyle: {
           margin: 24,
+          marginTop: 0,
           backgroundColor: "#8BDFBB",
           borderRadius: 20,
           paddingBottom: 10,
@@ -35,6 +37,15 @@ export function AppRoutes() {
         options={{
           tabBarIcon: ({ color }) => (
             <Entypo name="home" color={color} size={ICON_SIZE} />
+          ),
+        }}
+      />
+      <Screen
+        name="Calculadora"
+        component={CalculatorScreen}
+        options={{
+          tabBarIcon: ({ color }) => (
+            <Entypo name="calculator" color={color} size={ICON_SIZE} />
           ),
         }}
       />

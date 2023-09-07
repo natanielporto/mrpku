@@ -12,6 +12,9 @@ export type RecipeRoute = {
   biscuitsAndCrackers: {
     from: "home";
   };
+  cakesAndLittleCakes: {
+    from: "home";
+  };
   detail: {
     recipeId: string;
   };

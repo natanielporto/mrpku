@@ -10,7 +10,7 @@ interface Props {
 }
 
 const defaultClass =
-  "bg-amber-500 boxshadow h-8 justify-center items-center rounded-custom px-3";
+  "boxshadow h-8 justify-center items-center rounded-custom px-3";
 
 export function Button({
   action,
