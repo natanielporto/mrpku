@@ -971,7 +971,7 @@
         ]
       },
       {
-        "id": 26,
+        "id": 27,
         "name": "Bolo fofinho de laranja",
         "image": "https://images.unsplash.com/photo-1475855841503-917d97ca77b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
         "ingredients": [
@@ -983,29 +983,136 @@
           "10g de fermento químico em pó"
         ],
         "preparation": [
-          "1- Em um liquidificador, bata a laranja descascada junto com a mandioca e o açúcar;",
-          "2- Adicione o emulsificante, o amido e por último o fermento com as raspas da laranja;",
-          "3- Disponha a massa em uma forma untada;",
-          "4- Asse em forno pré-aquecido a 200°C por 25 minutos;",
-          "5- Desenforme quando estiver frio e se gostar aplique a cobertura abaixo",
-          "Cobertura de açúcar e suco de limão",
-          "1- Misture os dois ingredientes e espalhe a cobertura por cima do bolo;",
-          "2- Decore com raspas da casca do limão."
+          "1- Em um recipiente, misture o suco de laranja, o creme de leite, o óleo e liga neutra;",
+          "2- Adicione a farinha, o açúcar e misture bem até ficar homogêneo. Adicione o fermento e misture delicadamente;",
+          "3- Transfira a massa para forminhas de cupcake untadas;",
+          "4- Leve ao forno a 180°C por aproximadamente 35 minutos ou até que esteja assado por completo."
         ],
-        "servings": "12 fatias",
+        "servings": "10 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 853, "servingEnergy": 71 },
-          { "totalCarbs": 212, "servingCarbs": 18 },
-          { "totalProteins": 4.5, "servingProteins": 0.4 },
-          { "totalLipids": 1, "servingLipids": 0 },
-          { "totalSodium": 12, "servingSodium": 1 },
-          { "totalPotassium": 1021, "servingPotassium": 85 }
+          { "totalEnergy": 1424, "servingEnergy": 142 },
+          { "totalCarbs": 239, "servingCarbs": 24 },
+          { "totalProteins": 3.1, "servingProteins": 0.3 },
+          { "totalLipids": 53, "servingLipids": 5 },
+          { "totalSodium": 16, "servingSodium": 2 },
+          { "totalPotassium": 248, "servingPotassium": 25 }
         ],
         "graphInformation": [
-          { "leucine": 44, "totalLeucine": 150, "servingLeucine": 13 },
-          { "tirosine": 18, "totalTirosine": 60, "servingTirosine": 5 },
-          { "fenil": 26, "totalFenil": 90, "servingFenil": 8 },
-          { "metiotine": 12, "totalMetiotine": 40, "servingMetiotine": 3 }
+          { "leucine": 46, "totalLeucine": 250, "servingLeucine": 25 },
+          { "tirosine": 18, "totalTirosine": 100, "servingTirosine": 10 },
+          { "fenil": 25, "totalFenil": 140, "servingFenil": 14 },
+          { "metiotine": 11, "totalMetiotine": 60, "servingMetiotine": 6 }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Bolo mesclado",
+        "image": "https://images.unsplash.com/photo-1608266400306-3e699423dc53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+        "ingredients": [
+          "160g de açúcar cristal",
+          "170ml de água",
+          "60g de creme de leite",
+          "240g de farinha sem glúten",
+          "10g de fermento químico em pó",
+          "15g de achocolatado em pó",
+          "10g de óleo de coco"
+        ],
+        "preparation": [
+          "1- Coloque todos os ingredientes na batedeira, exceto o fermento, e bata até obter uma massa homogênea;",
+          "2- Retire da batedeira e acrescente o fermento, misturando delicadamente;",
+          "3- Divida a massa em duas partes e em uma delas, coloque o achocolatado;",
+          "4- Em uma assadeira untada, coloque a massa branca e por cima o restante da massa de chocolate;",
+          "5- Leve para assar em forno pré- aquecido a 180°C por aproximadamente 40 minutos ou até que esteja assado por completo. "
+        ],
+        "servings": "15 fatias",
+        "nutritionalInformation": [
+          { "totalEnergy": 1791, "servingEnergy": 119 },
+          { "totalCarbs": 382, "servingCarbs": 25 },
+          { "totalProteins": 4.4, "servingProteins": 0.3 },
+          { "totalLipids": 24, "servingLipids": 2 },
+          { "totalSodium": 46, "servingSodium": 3 },
+          { "totalPotassium": 72, "servingPotassium": 5 }
+        ],
+        "graphInformation": [
+          { "leucine": 44, "totalLeucine": 420, "servingLeucine": 28 },
+          { "tirosine": 19, "totalTirosine": 180, "servingTirosine": 12 },
+          { "fenil": 25, "totalFenil": 240, "servingFenil": 16 },
+          { "metiotine": 12, "totalMetiotine": 110, "servingMetiotine": 7 }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Muffin de coco e chocolate",
+        "image": "https://plus.unsplash.com/premium_photo-1671405925124-8a3192adec81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+        "ingredients": [
+          "100g de farinha sem glúten",
+          "180g de bebida vegetal a base de arroz",
+          "100g de amido de milho",
+          "35g de margarina sem sal",
+          "2g de essência de baunilha",
+          "10g de fermento químico em pó",
+          "25g de gotas de chocolate",
+          "145g de açúcar demerara",
+          "45g de leite de coco",
+          "7g de emulsificante",
+          "5g de liga neutra"
+        ],
+        "preparation": [
+          "1- Em um recipiente, misture todos os ingredientes secos, exceto o fermento;",
+          "2- Acrescente os demais ingredientes, deixando o fermento e o chocolate para o final;",
+          "3- Disponha a massa em forminhas de cupcake",
+          "4- Asse em forno pré-aquecido a 200°C por aproximadamente 20 a 25 minutos. "
+        ],
+        "servings": "10 unidades",
+        "nutritionalInformation": [
+          { "totalEnergy": 2043, "servingEnergy": 204 },
+          { "totalCarbs": 415, "servingCarbs": 41 },
+          { "totalProteins": 4.3, "servingProteins": 0.4 },
+          { "totalLipids": 39, "servingLipids": 4 },
+          { "totalSodium": 267, "servingSodium": 27 },
+          { "totalPotassium": 108, "servingPotassium": 11 }
+        ],
+        "graphInformation": [
+          { "leucine": 45, "totalLeucine": 400, "servingLeucine": 40 },
+          { "tirosine": 18, "totalTirosine": 160, "servingTirosine": 16 },
+          { "fenil": 26, "totalFenil": 230, "servingFenil": 23 },
+          { "metiotine": 11, "totalMetiotine": 100, "servingMetiotine": 10 }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Muffin de banana e chocolate",
+        "image": "https://images.unsplash.com/photo-1663904458739-5e2ed09582b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+        "ingredients": [
+          "90g de farinha sem glúten",
+          "10g de achocolatado",
+          "30g de açúcar orgânico",
+          "6g óleo vegetal",
+          "60g de creme de leite",
+          "3g de fermento químico em pó",
+          "150g de banana prata"
+        ],
+        "preparation": [
+          "1- Em um recipiente, misture todos os ingredientes, exceto o achocolatado e o fermento;",
+          "2- Adicione o fermento e mexa delicadamente;",
+          "3- Divida a massa em duas partes iguais e em uma delas adicione o achocolatado;",
+          "4- Disponha a massa em uma forma de pão de forma ou forminhas de cupcake, colocando a massa branca embaixo e a massa de chocolate por cima;",
+          "5- Asse em forno pré-aquecido a 180°C por aproximadamente 40 minutos ou até o palito sair limpo. "
+        ],
+        "servings": "6 unidades",
+        "nutritionalInformation": [
+          { "totalEnergy": 825, "servingEnergy": 138 },
+          { "totalCarbs": 156, "servingCarbs": 26 },
+          { "totalProteins": 5.2, "servingProteins": 0.9 },
+          { "totalLipids": 22, "servingLipids": 4 },
+          { "totalSodium": 41, "servingSodium": 7 },
+          { "totalPotassium": 663, "servingPotassium": 111 }
+        ],
+        "graphInformation": [
+          { "leucine": 46, "totalLeucine": 450, "servingLeucine": 75 },
+          { "tirosine": 19, "totalTirosine": 190, "servingTirosine": 32 },
+          { "fenil": 25, "totalFenil": 250, "servingFenil": 42 },
+          { "metiotine": 10, "totalMetiotine": 100, "servingMetiotine": 17 }
         ]
       }
     ]

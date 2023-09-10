@@ -12,7 +12,7 @@ export const ButtonCard = ({
 }) => {
   return (
     <TouchableOpacity
-      className="flex-1 flex-row items-center rounded-3xl bg-green-50 h-[140] w-[93%] mx-auto relative"
+      className="flex-1 flex-row items-center rounded-3xl bg-green-50 h-[140] w-[93%] mx-auto relative shadow-sm"
       onPress={() => onPress(category)}
     >
       <View className="transform rotate-[20deg] mt-8 mr-1 absolute right-[-23px]">

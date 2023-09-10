@@ -6,12 +6,12 @@ export function FaqScreen() {
     {
       question: "O que é PKU?",
       answer:
-        "Fenilcetonúria (PKU, na sigla em inglês) é uma doença decorrente de um erro inato do metabolismo de aminoácidos, que ocorre por herança autossômica recessiva. Isso significa que a criança precisa receber um gene alterado da mãe e outro do pai para desenvolver o distúrbio.",
+        "Fenilcetonúria (PKU, na sigla em inglês) é uma doença decorrente de um erro inato do metabolismo de aminoácidos, que ocorre por herança autossômica recessiva. Isso significa que a criança precisa receber um gene alterado da mãe e outro do pai para desenvolver o distúrbio. Com essa condição, a pessoa deve ter diversos cuidados especiais com sua saúde quando o assunto é comida e os tipos de alimentos ingeridos, que são bastante restritos em variedade e quantidade.",
     },
     {
       question: "De onde vêm as imagens? Elas são reais?",
       answer:
-        "As imagens são meramente ilustrativas e vêm do site www.unsplash.com. Elas são uma forma de ilustrar, não perfeitamente, as receitas. Elas podem ser usadas como sugestão de preparo e como poderia ficar ao final da receita o produto. Mas nunca se esqueça: sempre coloque seu toque pessoal à apresentação dos pratos e bebidas.",
+        "As imagens são meramente ilustrativas e vêm do site www.unsplash.com. Elas são uma forma de ilustrar as receitas, porém, não perfeitamente igual ao resultado final. Elas podem ser usadas como sugestão de preparo, por exemplo. Mas nunca se esqueça: sempre coloque seu toque pessoal à apresentação dos pratos e bebidas.",
     },
     {
       question: "Sugestões e críticas?",

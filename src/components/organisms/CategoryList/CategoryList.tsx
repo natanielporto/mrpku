@@ -20,7 +20,7 @@ export function CategoryLists() {
         data={list}
         keyExtractor={(item) => item.category}
         renderItem={({ item }) => (
-          <View className="py-2 shadow-sm">
+          <View className="py-2">
             <CategoryCard data={item} />
           </View>
         )}

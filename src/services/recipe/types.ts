@@ -18,7 +18,7 @@ export interface NutritionalInfo {
   servingPotassium: number;
 }
 
-interface GraphInfo {
+export interface GraphInfo {
   leucine: number;
   totalLeucine: number;
   servingLeucine: number;

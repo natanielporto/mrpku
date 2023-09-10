@@ -5,6 +5,7 @@ import {
   View,
   TouchableOpacity,
   Text,
+  ScrollView,
 } from "react-native";
 import { Recipe } from "../../../services/recipe/types";
 import { RecipeCard } from "../RecipeCard/RecipeCard";
@@ -38,15 +39,13 @@ export function RecipeLists() {
         <Feather name="arrow-left" size={24} color="#888" />
         <Text className="ml-2">Retornar</Text>
       </TouchableOpacity>
-      <FlatList
-        data={list}
-        keyExtractor={(item) => item.name}
-        renderItem={({ item }) => (
-          <View className="py-2 shadow-sm">
+      <ScrollView>
+        {list?.map((item) => (
+          <View key={item.id} className="py-2">
             <RecipeCard recipe={item} />
           </View>
-        )}
-      />
+        ))}
+      </ScrollView>
     </SafeAreaView>
   );
 }

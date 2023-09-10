@@ -5,6 +5,7 @@ import { Feather } from "@expo/vector-icons";
 import { Title } from "../../atoms/Title/Title";
 import { Recipe } from "../../../services/recipe/types";
 import { Table } from "../../molecules/Table/Table";
+import { Chart } from "../PieChart/Chart";
 
 type RouteParamsProps = {
   recipe: Recipe;
@@ -21,9 +22,9 @@ export function RecipeDetail() {
   }
 
   return (
-    <SafeAreaView className="flex-1 px-5 bg-bgLight">
+    <SafeAreaView className="flex-1 bg-bgLight py-0">
       {recipe ? (
-        <View className="flex-1">
+        <View className="flex-1 absolute top-0 bottom-0 right-0 left-0 px-5">
           <View className="mb-4">
             <View className="flex-row items-center mb-4">
               <TouchableOpacity
@@ -70,9 +71,10 @@ export function RecipeDetail() {
                 </Text>
               ))}
             </View>
-            <View className="mt-2">
+            <View className="my-2">
               <Table nutritionalInformation={recipe.nutritionalInformation} />
             </View>
+            <Chart graphInformation={recipe.graphInformation} />
           </ScrollView>
         </View>
       ) : null}
