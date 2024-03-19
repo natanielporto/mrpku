@@ -15,6 +15,9 @@ export type RecipeRoute = {
   cakesAndLittleCakes: {
     from: "home";
   };
+  sweets: {
+    from: "home";
+  };
   detail: {
     recipeId: string;
   };

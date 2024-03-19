@@ -22,18 +22,52 @@
         ],
         "servings": "2 taças",
         "nutritionalInformation": [
-          { "totalEnergy": 614, "servingEnergy": 307 },
-          { "totalCarbs": 137, "servingCarbs": 69 },
-          { "totalProteins": 2.2, "servingProteins": 1.1 },
-          { "totalLipids": 8, "servingLipids": 6 },
-          { "totalSodium": 153, "servingSodium": 77 },
-          { "totalPotassium": 75, "servingPotassium": 38 }
+          {
+            "totalEnergy": 614,
+            "servingEnergy": 307
+          },
+          {
+            "totalCarbs": 137,
+            "servingCarbs": 69
+          },
+          {
+            "totalProteins": 2.2,
+            "servingProteins": 1.1
+          },
+          {
+            "totalLipids": 8,
+            "servingLipids": 6
+          },
+          {
+            "totalSodium": 153,
+            "servingSodium": 77
+          },
+          {
+            "totalPotassium": 75,
+            "servingPotassium": 38
+          }
         ],
         "graphInformation": [
-          { "leucine": 44, "totalLeucine": 200, "servingLeucine": 100 },
-          { "tirosine": 18, "totalTirosine": 80, "servingTirosine": 40 },
-          { "fenil": 27, "totalFenil": 120, "servingFenil": 60 },
-          { "metiotine": 11, "totalMetiotine": 50, "servingMetiotine": 25 }
+          {
+            "leucine": 44,
+            "totalLeucine": 200,
+            "servingLeucine": 100
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 80,
+            "servingTirosine": 40
+          },
+          {
+            "fenil": 27,
+            "totalFenil": 120,
+            "servingFenil": 60
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 50,
+            "servingMetiotine": 25
+          }
         ]
       },
       {
@@ -53,18 +87,52 @@
         ],
         "servings": "3 taças",
         "nutritionalInformation": [
-          { "totalEnergy": 406, "servingEnergy": 135 },
-          { "totalCarbs": 80, "servingCarbs": 27 },
-          { "totalProteins": 1.0, "servingProteins": 0.3 },
-          { "totalLipids": 10, "servingLipids": 3 },
-          { "totalSodium": 56, "servingSodium": 19 },
-          { "totalPotassium": 47, "servingPotassium": 16 }
+          {
+            "totalEnergy": 406,
+            "servingEnergy": 135
+          },
+          {
+            "totalCarbs": 80,
+            "servingCarbs": 27
+          },
+          {
+            "totalProteins": 1.0,
+            "servingProteins": 0.3
+          },
+          {
+            "totalLipids": 10,
+            "servingLipids": 3
+          },
+          {
+            "totalSodium": 56,
+            "servingSodium": 19
+          },
+          {
+            "totalPotassium": 47,
+            "servingPotassium": 16
+          }
         ],
         "graphInformation": [
-          { "leucine": 45, "totalLeucine": 100, "servingLeucine": 33 },
-          { "tirosine": 23, "totalTirosine": 50, "servingTirosine": 17 },
-          { "fenil": 23, "totalFenil": 50, "servingFenil": 17 },
-          { "metiotine": 9, "totalMetiotine": 20, "servingMetiotine": 7 }
+          {
+            "leucine": 45,
+            "totalLeucine": 100,
+            "servingLeucine": 33
+          },
+          {
+            "tirosine": 23,
+            "totalTirosine": 50,
+            "servingTirosine": 17
+          },
+          {
+            "fenil": 23,
+            "totalFenil": 50,
+            "servingFenil": 17
+          },
+          {
+            "metiotine": 9,
+            "totalMetiotine": 20,
+            "servingMetiotine": 7
+          }
         ]
       },
       {
@@ -85,18 +153,52 @@
         ],
         "servings": "2 potinhos",
         "nutritionalInformation": [
-          { "totalEnergy": 176, "servingEnergy": 88 },
-          { "totalCarbs": 36, "servingCarbs": 18 },
-          { "totalProteins": 0.8, "servingProteins": 0.4 },
-          { "totalLipids": 4, "servingLipids": 2 },
-          { "totalSodium": 7, "servingSodium": 3 },
-          { "totalPotassium": 142, "servingPotassium": 71 }
+          {
+            "totalEnergy": 176,
+            "servingEnergy": 88
+          },
+          {
+            "totalCarbs": 36,
+            "servingCarbs": 18
+          },
+          {
+            "totalProteins": 0.8,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 4,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 7,
+            "servingSodium": 3
+          },
+          {
+            "totalPotassium": 142,
+            "servingPotassium": 71
+          }
         ],
         "graphInformation": [
-          { "leucine": 46, "totalLeucine": 60, "servingLeucine": 30 },
-          { "tirosine": 23, "totalTirosine": 30, "servingTirosine": 15 },
-          { "fenil": 23, "totalFenil": 30, "servingFenil": 15 },
-          { "metiotine": 8, "totalMetiotine": 10, "servingMetiotine": 5 }
+          {
+            "leucine": 46,
+            "totalLeucine": 60,
+            "servingLeucine": 30
+          },
+          {
+            "tirosine": 23,
+            "totalTirosine": 30,
+            "servingTirosine": 15
+          },
+          {
+            "fenil": 23,
+            "totalFenil": 30,
+            "servingFenil": 15
+          },
+          {
+            "metiotine": 8,
+            "totalMetiotine": 10,
+            "servingMetiotine": 5
+          }
         ]
       },
       {
@@ -117,18 +219,52 @@
         ],
         "servings": "4 taças",
         "nutritionalInformation": [
-          { "totalEnergy": 324, "servingEnergy": 81 },
-          { "totalCarbs": 79, "servingCarbs": 20 },
-          { "totalProteins": 1.1, "servingProteins": 0.3 },
-          { "totalLipids": 0, "servingLipids": 0 },
-          { "totalSodium": 45, "servingSodium": 11 },
-          { "totalPotassium": 1, "servingPotassium": 0 }
+          {
+            "totalEnergy": 324,
+            "servingEnergy": 81
+          },
+          {
+            "totalCarbs": 79,
+            "servingCarbs": 20
+          },
+          {
+            "totalProteins": 1.1,
+            "servingProteins": 0.3
+          },
+          {
+            "totalLipids": 0,
+            "servingLipids": 0
+          },
+          {
+            "totalSodium": 45,
+            "servingSodium": 11
+          },
+          {
+            "totalPotassium": 1,
+            "servingPotassium": 0
+          }
         ],
         "graphInformation": [
-          { "leucine": 45, "totalLeucine": 90, "servingLeucine": 23 },
-          { "tirosine": 20, "totalTirosine": 40, "servingTirosine": 10 },
-          { "fenil": 30, "totalFenil": 60, "servingFenil": 15 },
-          { "metiotine": 5, "totalMetiotine": 10, "servingMetiotine": 3 }
+          {
+            "leucine": 45,
+            "totalLeucine": 90,
+            "servingLeucine": 23
+          },
+          {
+            "tirosine": 20,
+            "totalTirosine": 40,
+            "servingTirosine": 10
+          },
+          {
+            "fenil": 30,
+            "totalFenil": 60,
+            "servingFenil": 15
+          },
+          {
+            "metiotine": 5,
+            "totalMetiotine": 10,
+            "servingMetiotine": 3
+          }
         ]
       },
       {
@@ -148,18 +284,52 @@
         ],
         "servings": "3 taças",
         "nutritionalInformation": [
-          { "totalEnergy": 357, "servingEnergy": 119 },
-          { "totalCarbs": 90, "servingCarbs": 30 },
-          { "totalProteins": 2.11, "servingProteins": 0.7 },
-          { "totalLipids": 0, "servingLipids": 0 },
-          { "totalSodium": 27, "servingSodium": 9 },
-          { "totalPotassium": 788, "servingPotassium": 263 }
+          {
+            "totalEnergy": 357,
+            "servingEnergy": 119
+          },
+          {
+            "totalCarbs": 90,
+            "servingCarbs": 30
+          },
+          {
+            "totalProteins": 2.11,
+            "servingProteins": 0.7
+          },
+          {
+            "totalLipids": 0,
+            "servingLipids": 0
+          },
+          {
+            "totalSodium": 27,
+            "servingSodium": 9
+          },
+          {
+            "totalPotassium": 788,
+            "servingPotassium": 263
+          }
         ],
         "graphInformation": [
-          { "leucine": 43, "totalLeucine": 130, "servingLeucine": 43 },
-          { "tirosine": 20, "totalTirosine": 60, "servingTirosine": 20 },
-          { "fenil": 30, "totalFenil": 90, "servingFenil": 30 },
-          { "metiotine": 7, "totalMetiotine": 20, "servingMetiotine": 7 }
+          {
+            "leucine": 43,
+            "totalLeucine": 130,
+            "servingLeucine": 43
+          },
+          {
+            "tirosine": 20,
+            "totalTirosine": 60,
+            "servingTirosine": 20
+          },
+          {
+            "fenil": 30,
+            "totalFenil": 90,
+            "servingFenil": 30
+          },
+          {
+            "metiotine": 7,
+            "totalMetiotine": 20,
+            "servingMetiotine": 7
+          }
         ]
       },
       {
@@ -188,18 +358,52 @@
         ],
         "servings": "5 taças",
         "nutritionalInformation": [
-          { "totalEnergy": 925, "servingEnergy": 185 },
-          { "totalCarbs": 139, "servingCarbs": 28 },
-          { "totalProteins": 5.3, "servingProteins": 1.1 },
-          { "totalLipids": 43, "servingLipids": 9 },
-          { "totalSodium": 30, "servingSodium": 6 },
-          { "totalPotassium": 777, "servingPotassium": 155 }
+          {
+            "totalEnergy": 925,
+            "servingEnergy": 185
+          },
+          {
+            "totalCarbs": 139,
+            "servingCarbs": 28
+          },
+          {
+            "totalProteins": 5.3,
+            "servingProteins": 1.1
+          },
+          {
+            "totalLipids": 43,
+            "servingLipids": 9
+          },
+          {
+            "totalSodium": 30,
+            "servingSodium": 6
+          },
+          {
+            "totalPotassium": 777,
+            "servingPotassium": 155
+          }
         ],
         "graphInformation": [
-          { "leucine": 43, "totalLeucine": 370, "servingLeucine": 74 },
-          { "tirosine": 20, "totalTirosine": 170, "servingTirosine": 34 },
-          { "fenil": 28, "totalFenil": 240, "servingFenil": 48 },
-          { "metiotine": 9, "totalMetiotine": 80, "servingMetiotine": 16 }
+          {
+            "leucine": 43,
+            "totalLeucine": 370,
+            "servingLeucine": 74
+          },
+          {
+            "tirosine": 20,
+            "totalTirosine": 170,
+            "servingTirosine": 34
+          },
+          {
+            "fenil": 28,
+            "totalFenil": 240,
+            "servingFenil": 48
+          },
+          {
+            "metiotine": 9,
+            "totalMetiotine": 80,
+            "servingMetiotine": 16
+          }
         ]
       },
       {
@@ -218,18 +422,52 @@
         ],
         "servings": "2 copos",
         "nutritionalInformation": [
-          { "totalEnergy": 262, "servingEnergy": 131 },
-          { "totalCarbs": 56, "servingCarbs": 28 },
-          { "totalProteins": 2, "servingProteins": 1 },
-          { "totalLipids": 5, "servingLipids": 2 },
-          { "totalSodium": 81, "servingSodium": 41 },
-          { "totalPotassium": 354, "servingPotassium": 177 }
+          {
+            "totalEnergy": 262,
+            "servingEnergy": 131
+          },
+          {
+            "totalCarbs": 56,
+            "servingCarbs": 28
+          },
+          {
+            "totalProteins": 2,
+            "servingProteins": 1
+          },
+          {
+            "totalLipids": 5,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 81,
+            "servingSodium": 41
+          },
+          {
+            "totalPotassium": 354,
+            "servingPotassium": 177
+          }
         ],
         "graphInformation": [
-          { "leucine": 46, "totalLeucine": 160, "servingLeucine": 80 },
-          { "tirosine": 20, "totalTirosine": 70, "servingTirosine": 35 },
-          { "fenil": 26, "totalFenil": 90, "servingFenil": 45 },
-          { "metiotine": 8, "totalMetiotine": 30, "servingMetiotine": 15 }
+          {
+            "leucine": 46,
+            "totalLeucine": 160,
+            "servingLeucine": 80
+          },
+          {
+            "tirosine": 20,
+            "totalTirosine": 70,
+            "servingTirosine": 35
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 90,
+            "servingFenil": 45
+          },
+          {
+            "metiotine": 8,
+            "totalMetiotine": 30,
+            "servingMetiotine": 15
+          }
         ]
       }
     ]
@@ -261,18 +499,52 @@
         ],
         "servings": "10 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1122, "servingEnergy": 112 },
-          { "totalCarbs": 191, "servingCarbs": 19 },
-          { "totalProteins": 1.7, "servingProteins": 0.2 },
-          { "totalLipids": 39, "servingLipids": 4 },
-          { "totalSodium": 65, "servingSodium": 6 },
-          { "totalPotassium": 21, "servingPotassium": 2 }
+          {
+            "totalEnergy": 1122,
+            "servingEnergy": 112
+          },
+          {
+            "totalCarbs": 191,
+            "servingCarbs": 19
+          },
+          {
+            "totalProteins": 1.7,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 39,
+            "servingLipids": 4
+          },
+          {
+            "totalSodium": 65,
+            "servingSodium": 6
+          },
+          {
+            "totalPotassium": 21,
+            "servingPotassium": 2
+          }
         ],
         "graphInformation": [
-          { "leucine": 45, "totalLeucine": 130, "servingLeucine": 13 },
-          { "tirosine": 21, "totalTirosine": 60, "servingTirosine": 6 },
-          { "fenil": 27, "totalFenil": 80, "servingFenil": 8 },
-          { "metiotine": 7, "totalMetiotine": 20, "servingMetiotine": 2 }
+          {
+            "leucine": 45,
+            "totalLeucine": 130,
+            "servingLeucine": 13
+          },
+          {
+            "tirosine": 21,
+            "totalTirosine": 60,
+            "servingTirosine": 6
+          },
+          {
+            "fenil": 27,
+            "totalFenil": 80,
+            "servingFenil": 8
+          },
+          {
+            "metiotine": 7,
+            "totalMetiotine": 20,
+            "servingMetiotine": 2
+          }
         ]
       },
       {
@@ -294,18 +566,52 @@
         ],
         "servings": "40 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1547, "servingEnergy": 39 },
-          { "totalCarbs": 242, "servingCarbs": 6 },
-          { "totalProteins": 2.1, "servingProteins": 0.1 },
-          { "totalLipids": 62, "servingLipids": 2 },
-          { "totalSodium": 922, "servingSodium": 23 },
-          { "totalPotassium": 71, "servingPotassium": 2 }
+          {
+            "totalEnergy": 1547,
+            "servingEnergy": 39
+          },
+          {
+            "totalCarbs": 242,
+            "servingCarbs": 6
+          },
+          {
+            "totalProteins": 2.1,
+            "servingProteins": 0.1
+          },
+          {
+            "totalLipids": 62,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 922,
+            "servingSodium": 23
+          },
+          {
+            "totalPotassium": 71,
+            "servingPotassium": 2
+          }
         ],
         "graphInformation": [
-          { "leucine": 46, "totalLeucine": 200, "servingLeucine": 5 },
-          { "tirosine": 16, "totalTirosine": 70, "servingTirosine": 2 },
-          { "fenil": 26, "totalFenil": 110, "servingFenil": 3 },
-          { "metiotine": 12, "totalMetiotine": 50, "servingMetiotine": 1 }
+          {
+            "leucine": 46,
+            "totalLeucine": 200,
+            "servingLeucine": 5
+          },
+          {
+            "tirosine": 16,
+            "totalTirosine": 70,
+            "servingTirosine": 2
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 110,
+            "servingFenil": 3
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 50,
+            "servingMetiotine": 1
+          }
         ]
       },
       {
@@ -335,18 +641,52 @@
         ],
         "servings": "14 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1770, "servingEnergy": 126 },
-          { "totalCarbs": 339, "servingCarbs": 24 },
-          { "totalProteins": 1.9, "servingProteins": 0.1 },
-          { "totalLipids": 37, "servingLipids": 3 },
-          { "totalSodium": 373, "servingSodium": 27 },
-          { "totalPotassium": 137, "servingPotassium": 10 }
+          {
+            "totalEnergy": 1770,
+            "servingEnergy": 126
+          },
+          {
+            "totalCarbs": 339,
+            "servingCarbs": 24
+          },
+          {
+            "totalProteins": 1.9,
+            "servingProteins": 0.1
+          },
+          {
+            "totalLipids": 37,
+            "servingLipids": 3
+          },
+          {
+            "totalSodium": 373,
+            "servingSodium": 27
+          },
+          {
+            "totalPotassium": 137,
+            "servingPotassium": 10
+          }
         ],
         "graphInformation": [
-          { "leucine": 45, "totalLeucine": 140, "servingLeucine": 10 },
-          { "tirosine": 19, "totalTirosine": 60, "servingTirosine": 4 },
-          { "fenil": 26, "totalFenil": 80, "servingFenil": 6 },
-          { "metiotine": 10, "totalMetiotine": 30, "servingMetiotine": 2 }
+          {
+            "leucine": 45,
+            "totalLeucine": 140,
+            "servingLeucine": 10
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 60,
+            "servingTirosine": 4
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 80,
+            "servingFenil": 6
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 30,
+            "servingMetiotine": 2
+          }
         ]
       },
       {
@@ -374,18 +714,52 @@
         ],
         "servings": "21 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1113, "servingEnergy": 53 },
-          { "totalCarbs": 214, "servingCarbs": 10 },
-          { "totalProteins": 2.1, "servingProteins": 0.1 },
-          { "totalLipids": 27, "servingLipids": 1 },
-          { "totalSodium": 315, "servingSodium": 15 },
-          { "totalPotassium": 107, "servingPotassium": 5 }
+          {
+            "totalEnergy": 1113,
+            "servingEnergy": 53
+          },
+          {
+            "totalCarbs": 214,
+            "servingCarbs": 10
+          },
+          {
+            "totalProteins": 2.1,
+            "servingProteins": 0.1
+          },
+          {
+            "totalLipids": 27,
+            "servingLipids": 1
+          },
+          {
+            "totalSodium": 315,
+            "servingSodium": 15
+          },
+          {
+            "totalPotassium": 107,
+            "servingPotassium": 5
+          }
         ],
         "graphInformation": [
-          { "leucine": 45, "totalLeucine": 140, "servingLeucine": 10 },
-          { "tirosine": 19, "totalTirosine": 60, "servingTirosine": 4 },
-          { "fenil": 26, "totalFenil": 80, "servingFenil": 6 },
-          { "metiotine": 10, "totalMetiotine": 30, "servingMetiotine": 2 }
+          {
+            "leucine": 45,
+            "totalLeucine": 140,
+            "servingLeucine": 10
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 60,
+            "servingTirosine": 4
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 80,
+            "servingFenil": 6
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 30,
+            "servingMetiotine": 2
+          }
         ]
       },
       {
@@ -413,18 +787,52 @@
         ],
         "servings": "30 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1636, "servingEnergy": 55 },
-          { "totalCarbs": 230, "servingCarbs": 8 },
-          { "totalProteins": 3.5, "servingProteins": 0.1 },
-          { "totalLipids": 81, "servingLipids": 3 },
-          { "totalSodium": 1952, "servingSodium": 65 },
-          { "totalPotassium": 246, "servingPotassium": 8 }
+          {
+            "totalEnergy": 1636,
+            "servingEnergy": 55
+          },
+          {
+            "totalCarbs": 230,
+            "servingCarbs": 8
+          },
+          {
+            "totalProteins": 3.5,
+            "servingProteins": 0.1
+          },
+          {
+            "totalLipids": 81,
+            "servingLipids": 3
+          },
+          {
+            "totalSodium": 1952,
+            "servingSodium": 65
+          },
+          {
+            "totalPotassium": 246,
+            "servingPotassium": 8
+          }
         ],
         "graphInformation": [
-          { "leucine": 52, "totalLeucine": 260, "servingLeucine": 9 },
-          { "tirosine": 2, "totalTirosine": 11, "servingTirosine": 2 },
-          { "fenil": 32, "totalFenil": 160, "servingFenil": 5 },
-          { "metiotine": 14, "totalMetiotine": 70, "servingMetiotine": 0 }
+          {
+            "leucine": 52,
+            "totalLeucine": 260,
+            "servingLeucine": 9
+          },
+          {
+            "tirosine": 2,
+            "totalTirosine": 11,
+            "servingTirosine": 2
+          },
+          {
+            "fenil": 32,
+            "totalFenil": 160,
+            "servingFenil": 5
+          },
+          {
+            "metiotine": 14,
+            "totalMetiotine": 70,
+            "servingMetiotine": 0
+          }
         ]
       },
       {
@@ -451,18 +859,52 @@
         ],
         "servings": "20 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1527, "servingEnergy": 76 },
-          { "totalCarbs": 256, "servingCarbs": 13 },
-          { "totalProteins": 2.3, "servingProteins": 0.1 },
-          { "totalLipids": 25, "servingLipids": 1 },
-          { "totalSodium": 411, "servingSodium": 21 },
-          { "totalPotassium": 573, "servingPotassium": 29 }
+          {
+            "totalEnergy": 1527,
+            "servingEnergy": 76
+          },
+          {
+            "totalCarbs": 256,
+            "servingCarbs": 13
+          },
+          {
+            "totalProteins": 2.3,
+            "servingProteins": 0.1
+          },
+          {
+            "totalLipids": 25,
+            "servingLipids": 1
+          },
+          {
+            "totalSodium": 411,
+            "servingSodium": 21
+          },
+          {
+            "totalPotassium": 573,
+            "servingPotassium": 29
+          }
         ],
         "graphInformation": [
-          { "leucine": 50, "totalLeucine": 160, "servingLeucine": 8 },
-          { "tirosine": 16, "totalTirosine": 50, "servingTirosine": 3 },
-          { "fenil": 25, "totalFenil": 80, "servingFenil": 4 },
-          { "metiotine": 9, "totalMetiotine": 30, "servingMetiotine": 2 }
+          {
+            "leucine": 50,
+            "totalLeucine": 160,
+            "servingLeucine": 8
+          },
+          {
+            "tirosine": 16,
+            "totalTirosine": 50,
+            "servingTirosine": 3
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 80,
+            "servingFenil": 4
+          },
+          {
+            "metiotine": 9,
+            "totalMetiotine": 30,
+            "servingMetiotine": 2
+          }
         ]
       },
       {
@@ -493,18 +935,52 @@
         ],
         "servings": "10 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1623, "servingEnergy": 162 },
-          { "totalCarbs": 286, "servingCarbs": 29 },
-          { "totalProteins": 3, "servingProteins": 0.3 },
-          { "totalLipids": 53, "servingLipids": 5 },
-          { "totalSodium": 622, "servingSodium": 62 },
-          { "totalPotassium": 352, "servingPotassium": 35 }
+          {
+            "totalEnergy": 1623,
+            "servingEnergy": 162
+          },
+          {
+            "totalCarbs": 286,
+            "servingCarbs": 29
+          },
+          {
+            "totalProteins": 3,
+            "servingProteins": 0.3
+          },
+          {
+            "totalLipids": 53,
+            "servingLipids": 5
+          },
+          {
+            "totalSodium": 622,
+            "servingSodium": 62
+          },
+          {
+            "totalPotassium": 352,
+            "servingPotassium": 35
+          }
         ],
         "graphInformation": [
-          { "leucine": 44, "totalLeucine": 250, "servingLeucine": 25 },
-          { "tirosine": 18, "totalTirosine": 100, "servingTirosine": 10 },
-          { "fenil": 27, "totalFenil": 150, "servingFenil": 15 },
-          { "metiotine": 11, "totalMetiotine": 60, "servingMetiotine": 6 }
+          {
+            "leucine": 44,
+            "totalLeucine": 250,
+            "servingLeucine": 25
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 100,
+            "servingTirosine": 10
+          },
+          {
+            "fenil": 27,
+            "totalFenil": 150,
+            "servingFenil": 15
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 60,
+            "servingMetiotine": 6
+          }
         ]
       },
       {
@@ -531,18 +1007,52 @@
         ],
         "servings": "22 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1921, "servingEnergy": 87 },
-          { "totalCarbs": 331, "servingCarbs": 15 },
-          { "totalProteins": 7.8, "servingProteins": 0.4 },
-          { "totalLipids": 65, "servingLipids": 3 },
-          { "totalSodium": 960, "servingSodium": 44 },
-          { "totalPotassium": 423, "servingPotassium": 19 }
+          {
+            "totalEnergy": 1921,
+            "servingEnergy": 87
+          },
+          {
+            "totalCarbs": 331,
+            "servingCarbs": 15
+          },
+          {
+            "totalProteins": 7.8,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 65,
+            "servingLipids": 3
+          },
+          {
+            "totalSodium": 960,
+            "servingSodium": 44
+          },
+          {
+            "totalPotassium": 423,
+            "servingPotassium": 19
+          }
         ],
         "graphInformation": [
-          { "leucine": 42, "totalLeucine": 570, "servingLeucine": 26 },
-          { "tirosine": 22, "totalTirosine": 290, "servingTirosine": 13 },
-          { "fenil": 28, "totalFenil": 380, "servingFenil": 17 },
-          { "metiotine": 8, "totalMetiotine": 110, "servingMetiotine": 5 }
+          {
+            "leucine": 42,
+            "totalLeucine": 570,
+            "servingLeucine": 26
+          },
+          {
+            "tirosine": 22,
+            "totalTirosine": 290,
+            "servingTirosine": 13
+          },
+          {
+            "fenil": 28,
+            "totalFenil": 380,
+            "servingFenil": 17
+          },
+          {
+            "metiotine": 8,
+            "totalMetiotine": 110,
+            "servingMetiotine": 5
+          }
         ]
       },
       {
@@ -568,18 +1078,52 @@
         ],
         "servings": "5 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1172, "servingEnergy": 234 },
-          { "totalCarbs": 207, "servingCarbs": 41 },
-          { "totalProteins": 0.5, "servingProteins": 0.1 },
-          { "totalLipids": 36, "servingLipids": 7 },
-          { "totalSodium": 615, "servingSodium": 123 },
-          { "totalPotassium": 18, "servingPotassium": 4 }
+          {
+            "totalEnergy": 1172,
+            "servingEnergy": 234
+          },
+          {
+            "totalCarbs": 207,
+            "servingCarbs": 41
+          },
+          {
+            "totalProteins": 0.5,
+            "servingProteins": 0.1
+          },
+          {
+            "totalLipids": 36,
+            "servingLipids": 7
+          },
+          {
+            "totalSodium": 615,
+            "servingSodium": 123
+          },
+          {
+            "totalPotassium": 18,
+            "servingPotassium": 4
+          }
         ],
         "graphInformation": [
-          { "leucine": 55, "totalLeucine": 60, "servingLeucine": 12 },
-          { "tirosine": 18, "totalTirosine": 20, "servingTirosine": 4 },
-          { "fenil": 18, "totalFenil": 20, "servingFenil": 4 },
-          { "metiotine": 9, "totalMetiotine": 10, "servingMetiotine": 2 }
+          {
+            "leucine": 55,
+            "totalLeucine": 60,
+            "servingLeucine": 12
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 20,
+            "servingTirosine": 4
+          },
+          {
+            "fenil": 18,
+            "totalFenil": 20,
+            "servingFenil": 4
+          },
+          {
+            "metiotine": 9,
+            "totalMetiotine": 10,
+            "servingMetiotine": 2
+          }
         ]
       },
       {
@@ -605,18 +1149,52 @@
         ],
         "servings": "25 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1239, "servingEnergy": 50 },
-          { "totalCarbs": 222, "servingCarbs": 9 },
-          { "totalProteins": 0.9, "servingProteins": 0.04 },
-          { "totalLipids": 36, "servingLipids": 1 },
-          { "totalSodium": 617, "servingSodium": 25 },
-          { "totalPotassium": 9, "servingPotassium": 0 }
+          {
+            "totalEnergy": 1239,
+            "servingEnergy": 50
+          },
+          {
+            "totalCarbs": 222,
+            "servingCarbs": 9
+          },
+          {
+            "totalProteins": 0.9,
+            "servingProteins": 0.04
+          },
+          {
+            "totalLipids": 36,
+            "servingLipids": 1
+          },
+          {
+            "totalSodium": 617,
+            "servingSodium": 25
+          },
+          {
+            "totalPotassium": 9,
+            "servingPotassium": 0
+          }
         ],
         "graphInformation": [
-          { "leucine": 47, "totalLeucine": 80, "servingLeucine": 3 },
-          { "tirosine": 18, "totalTirosine": 30, "servingTirosine": 1 },
-          { "fenil": 23, "totalFenil": 40, "servingFenil": 2 },
-          { "metiotine": 12, "totalMetiotine": 20, "servingMetiotine": 1 }
+          {
+            "leucine": 47,
+            "totalLeucine": 80,
+            "servingLeucine": 3
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 30,
+            "servingTirosine": 1
+          },
+          {
+            "fenil": 23,
+            "totalFenil": 40,
+            "servingFenil": 2
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 20,
+            "servingMetiotine": 1
+          }
         ]
       }
     ]
@@ -648,18 +1226,52 @@
         ],
         "servings": "20 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1289, "servingEnergy": 64 },
-          { "totalCarbs": 247, "servingCarbs": 12 },
-          { "totalProteins": 4.6, "servingProteins": 0.2 },
-          { "totalLipids": 33, "servingLipids": 2 },
-          { "totalSodium": 45, "servingSodium": 2 },
-          { "totalPotassium": 139, "servingPotassium": 7 }
+          {
+            "totalEnergy": 1289,
+            "servingEnergy": 64
+          },
+          {
+            "totalCarbs": 247,
+            "servingCarbs": 12
+          },
+          {
+            "totalProteins": 4.6,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 33,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 45,
+            "servingSodium": 2
+          },
+          {
+            "totalPotassium": 139,
+            "servingPotassium": 7
+          }
         ],
         "graphInformation": [
-          { "leucine": 51, "totalLeucine": 450, "servingLeucine": 23 },
-          { "tirosine": 22, "totalTirosine": 200, "servingTirosine": 10 },
-          { "fenil": 26, "totalFenil": 230, "servingFenil": 12 },
-          { "metiotine": 1, "totalMetiotine": 12, "servingMetiotine": 1 }
+          {
+            "leucine": 51,
+            "totalLeucine": 450,
+            "servingLeucine": 23
+          },
+          {
+            "tirosine": 22,
+            "totalTirosine": 200,
+            "servingTirosine": 10
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 230,
+            "servingFenil": 12
+          },
+          {
+            "metiotine": 1,
+            "totalMetiotine": 12,
+            "servingMetiotine": 1
+          }
         ]
       },
       {
@@ -684,18 +1296,52 @@
         ],
         "servings": "10 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 1060, "servingEnergy": 106 },
-          { "totalCarbs": 226, "servingCarbs": 23 },
-          { "totalProteins": 1.9, "servingProteins": 0.2 },
-          { "totalLipids": 18, "servingLipids": 2 },
-          { "totalSodium": 2, "servingSodium": 0 },
-          { "totalPotassium": 115, "servingPotassium": 11 }
+          {
+            "totalEnergy": 1060,
+            "servingEnergy": 106
+          },
+          {
+            "totalCarbs": 226,
+            "servingCarbs": 23
+          },
+          {
+            "totalProteins": 1.9,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 18,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 2,
+            "servingSodium": 0
+          },
+          {
+            "totalPotassium": 115,
+            "servingPotassium": 11
+          }
         ],
         "graphInformation": [
-          { "leucine": 42, "totalLeucine": 160, "servingLeucine": 16 },
-          { "tirosine": 19, "totalTirosine": 70, "servingTirosine": 7 },
-          { "fenil": 26, "totalFenil": 100, "servingFenil": 10 },
-          { "metiotine": 13, "totalMetiotine": 50, "servingMetiotine": 5 }
+          {
+            "leucine": 42,
+            "totalLeucine": 160,
+            "servingLeucine": 16
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 70,
+            "servingTirosine": 7
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 100,
+            "servingFenil": 10
+          },
+          {
+            "metiotine": 13,
+            "totalMetiotine": 50,
+            "servingMetiotine": 5
+          }
         ]
       },
       {
@@ -717,18 +1363,52 @@
         ],
         "servings": "11 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 2070, "servingEnergy": 184 },
-          { "totalCarbs": 419, "servingCarbs": 38 },
-          { "totalProteins": 4.9, "servingProteins": 0.45 },
-          { "totalLipids": 43, "servingLipids": 3.9 },
-          { "totalSodium": 4.9, "servingSodium": 0.4 },
-          { "totalPotassium": 1192, "servingPotassium": 108 }
+          {
+            "totalEnergy": 2070,
+            "servingEnergy": 184
+          },
+          {
+            "totalCarbs": 419,
+            "servingCarbs": 38
+          },
+          {
+            "totalProteins": 4.9,
+            "servingProteins": 0.45
+          },
+          {
+            "totalLipids": 43,
+            "servingLipids": 3.9
+          },
+          {
+            "totalSodium": 4.9,
+            "servingSodium": 0.4
+          },
+          {
+            "totalPotassium": 1192,
+            "servingPotassium": 108
+          }
         ],
         "graphInformation": [
-          { "leucine": 47, "totalLeucine": 390, "servingLeucine": 35.5 },
-          { "tirosine": 17, "totalTirosine": 140, "servingTirosine": 12.7 },
-          { "fenil": 26, "totalFenil": 220, "servingFenil": 20 },
-          { "metiotine": 10, "totalMetiotine": 80, "servingMetiotine": 7.3 }
+          {
+            "leucine": 47,
+            "totalLeucine": 390,
+            "servingLeucine": 35.5
+          },
+          {
+            "tirosine": 17,
+            "totalTirosine": 140,
+            "servingTirosine": 12.7
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 220,
+            "servingFenil": 20
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 80,
+            "servingMetiotine": 7.3
+          }
         ]
       },
       {
@@ -764,18 +1444,52 @@
         ],
         "servings": "9 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 1605, "servingEnergy": 178 },
-          { "totalCarbs": 320, "servingCarbs": 36 },
-          { "totalProteins": 3.3, "servingProteins": 0.4 },
-          { "totalLipids": 37, "servingLipids": 4 },
-          { "totalSodium": 136, "servingSodium": 15 },
-          { "totalPotassium": 447, "servingPotassium": 50 }
+          {
+            "totalEnergy": 1605,
+            "servingEnergy": 178
+          },
+          {
+            "totalCarbs": 320,
+            "servingCarbs": 36
+          },
+          {
+            "totalProteins": 3.3,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 37,
+            "servingLipids": 4
+          },
+          {
+            "totalSodium": 136,
+            "servingSodium": 15
+          },
+          {
+            "totalPotassium": 447,
+            "servingPotassium": 50
+          }
         ],
         "graphInformation": [
-          { "leucine": 47, "totalLeucine": 280, "servingLeucine": 31 },
-          { "tirosine": 18, "totalTirosine": 110, "servingTirosine": 12 },
-          { "fenil": 25, "totalFenil": 150, "servingFenil": 17 },
-          { "metiotine": 10, "totalMetiotine": 60, "servingMetiotine": 7 }
+          {
+            "leucine": 47,
+            "totalLeucine": 280,
+            "servingLeucine": 31
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 110,
+            "servingTirosine": 12
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 150,
+            "servingFenil": 17
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 60,
+            "servingMetiotine": 7
+          }
         ]
       },
       {
@@ -798,18 +1512,52 @@
         ],
         "servings": "8 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 1134, "servingEnergy": 142 },
-          { "totalCarbs": 122, "servingCarbs": 15 },
-          { "totalProteins": 1.5, "servingProteins": 0.2 },
-          { "totalLipids": 71, "servingLipids": 9 },
-          { "totalSodium": 26, "servingSodium": 3 },
-          { "totalPotassium": 196, "servingPotassium": 24 }
+          {
+            "totalEnergy": 1134,
+            "servingEnergy": 142
+          },
+          {
+            "totalCarbs": 122,
+            "servingCarbs": 15
+          },
+          {
+            "totalProteins": 1.5,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 71,
+            "servingLipids": 9
+          },
+          {
+            "totalSodium": 26,
+            "servingSodium": 3
+          },
+          {
+            "totalPotassium": 196,
+            "servingPotassium": 24
+          }
         ],
         "graphInformation": [
-          { "leucine": 47, "totalLeucine": 120, "servingLeucine": 15 },
-          { "tirosine": 15, "totalTirosine": 40, "servingTirosine": 5 },
-          { "fenil": 27, "totalFenil": 70, "servingFenil": 9 },
-          { "metiotine": 12, "totalMetiotine": 30, "servingMetiotine": 4 }
+          {
+            "leucine": 47,
+            "totalLeucine": 120,
+            "servingLeucine": 15
+          },
+          {
+            "tirosine": 15,
+            "totalTirosine": 40,
+            "servingTirosine": 5
+          },
+          {
+            "fenil": 27,
+            "totalFenil": 70,
+            "servingFenil": 9
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 30,
+            "servingMetiotine": 4
+          }
         ]
       },
       {
@@ -839,18 +1587,52 @@
         ],
         "servings": "12 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 2185, "servingEnergy": 184 },
-          { "totalCarbs": 314, "servingCarbs": 26 },
-          { "totalProteins": 5.3, "servingProteins": 0.4 },
-          { "totalLipids": 107, "servingLipids": 9 },
-          { "totalSodium": 485, "servingSodium": 41 },
-          { "totalPotassium": 983, "servingPotassium": 83 }
+          {
+            "totalEnergy": 2185,
+            "servingEnergy": 184
+          },
+          {
+            "totalCarbs": 314,
+            "servingCarbs": 26
+          },
+          {
+            "totalProteins": 5.3,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 107,
+            "servingLipids": 9
+          },
+          {
+            "totalSodium": 485,
+            "servingSodium": 41
+          },
+          {
+            "totalPotassium": 983,
+            "servingPotassium": 83
+          }
         ],
         "graphInformation": [
-          { "leucine": 43, "totalLeucine": 320, "servingLeucine": 27 },
-          { "tirosine": 19, "totalTirosine": 140, "servingTirosine": 12 },
-          { "fenil": 29, "totalFenil": 220, "servingFenil": 19 },
-          { "metiotine": 9, "totalMetiotine": 70, "servingMetiotine": 6 }
+          {
+            "leucine": 43,
+            "totalLeucine": 320,
+            "servingLeucine": 27
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 140,
+            "servingTirosine": 12
+          },
+          {
+            "fenil": 29,
+            "totalFenil": 220,
+            "servingFenil": 19
+          },
+          {
+            "metiotine": 9,
+            "totalMetiotine": 70,
+            "servingMetiotine": 6
+          }
         ]
       },
       {
@@ -879,18 +1661,52 @@
         ],
         "servings": "8 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 1186, "servingEnergy": 148 },
-          { "totalCarbs": 206, "servingCarbs": 26 },
-          { "totalProteins": 1, "servingProteins": 0.1 },
-          { "totalLipids": 41, "servingLipids": 5 },
-          { "totalSodium": 13, "servingSodium": 2 },
-          { "totalPotassium": 92, "servingPotassium": 12 }
+          {
+            "totalEnergy": 1186,
+            "servingEnergy": 148
+          },
+          {
+            "totalCarbs": 206,
+            "servingCarbs": 26
+          },
+          {
+            "totalProteins": 1,
+            "servingProteins": 0.1
+          },
+          {
+            "totalLipids": 41,
+            "servingLipids": 5
+          },
+          {
+            "totalSodium": 13,
+            "servingSodium": 2
+          },
+          {
+            "totalPotassium": 92,
+            "servingPotassium": 12
+          }
         ],
         "graphInformation": [
-          { "leucine": 47, "totalLeucine": 80, "servingLeucine": 10 },
-          { "tirosine": 18, "totalTirosine": 30, "servingTirosine": 4 },
-          { "fenil": 23, "totalFenil": 40, "servingFenil": 5 },
-          { "metiotine": 12, "totalMetiotine": 20, "servingMetiotine": 3 }
+          {
+            "leucine": 47,
+            "totalLeucine": 80,
+            "servingLeucine": 10
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 30,
+            "servingTirosine": 4
+          },
+          {
+            "fenil": 23,
+            "totalFenil": 40,
+            "servingFenil": 5
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 20,
+            "servingMetiotine": 3
+          }
         ]
       },
       {
@@ -917,18 +1733,52 @@
         ],
         "servings": "20 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 2641, "servingEnergy": 132 },
-          { "totalCarbs": 474, "servingCarbs": 24 },
-          { "totalProteins": 7.4, "servingProteins": 0.4 },
-          { "totalLipids": 81, "servingLipids": 4 },
-          { "totalSodium": 68, "servingSodium": 3 },
-          { "totalPotassium": 9, "servingPotassium": 0 }
+          {
+            "totalEnergy": 2641,
+            "servingEnergy": 132
+          },
+          {
+            "totalCarbs": 474,
+            "servingCarbs": 24
+          },
+          {
+            "totalProteins": 7.4,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 81,
+            "servingLipids": 4
+          },
+          {
+            "totalSodium": 68,
+            "servingSodium": 3
+          },
+          {
+            "totalPotassium": 9,
+            "servingPotassium": 0
+          }
         ],
         "graphInformation": [
-          { "leucine": 45, "totalLeucine": 690, "servingLeucine": 35 },
-          { "tirosine": 18, "totalTirosine": 280, "servingTirosine": 14 },
-          { "fenil": 26, "totalFenil": 410, "servingFenil": 21 },
-          { "metiotine": 11, "totalMetiotine": 170, "servingMetiotine": 9 }
+          {
+            "leucine": 45,
+            "totalLeucine": 690,
+            "servingLeucine": 35
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 280,
+            "servingTirosine": 14
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 410,
+            "servingFenil": 21
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 170,
+            "servingMetiotine": 9
+          }
         ]
       },
       {
@@ -956,18 +1806,52 @@
         ],
         "servings": "12 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 853, "servingEnergy": 71 },
-          { "totalCarbs": 212, "servingCarbs": 18 },
-          { "totalProteins": 4.5, "servingProteins": 0.4 },
-          { "totalLipids": 1, "servingLipids": 0 },
-          { "totalSodium": 12, "servingSodium": 1 },
-          { "totalPotassium": 1021, "servingPotassium": 85 }
+          {
+            "totalEnergy": 853,
+            "servingEnergy": 71
+          },
+          {
+            "totalCarbs": 212,
+            "servingCarbs": 18
+          },
+          {
+            "totalProteins": 4.5,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 1,
+            "servingLipids": 0
+          },
+          {
+            "totalSodium": 12,
+            "servingSodium": 1
+          },
+          {
+            "totalPotassium": 1021,
+            "servingPotassium": 85
+          }
         ],
         "graphInformation": [
-          { "leucine": 44, "totalLeucine": 150, "servingLeucine": 13 },
-          { "tirosine": 18, "totalTirosine": 60, "servingTirosine": 5 },
-          { "fenil": 26, "totalFenil": 90, "servingFenil": 8 },
-          { "metiotine": 12, "totalMetiotine": 40, "servingMetiotine": 3 }
+          {
+            "leucine": 44,
+            "totalLeucine": 150,
+            "servingLeucine": 13
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 60,
+            "servingTirosine": 5
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 90,
+            "servingFenil": 8
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 40,
+            "servingMetiotine": 3
+          }
         ]
       },
       {
@@ -990,18 +1874,52 @@
         ],
         "servings": "10 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 1424, "servingEnergy": 142 },
-          { "totalCarbs": 239, "servingCarbs": 24 },
-          { "totalProteins": 3.1, "servingProteins": 0.3 },
-          { "totalLipids": 53, "servingLipids": 5 },
-          { "totalSodium": 16, "servingSodium": 2 },
-          { "totalPotassium": 248, "servingPotassium": 25 }
+          {
+            "totalEnergy": 1424,
+            "servingEnergy": 142
+          },
+          {
+            "totalCarbs": 239,
+            "servingCarbs": 24
+          },
+          {
+            "totalProteins": 3.1,
+            "servingProteins": 0.3
+          },
+          {
+            "totalLipids": 53,
+            "servingLipids": 5
+          },
+          {
+            "totalSodium": 16,
+            "servingSodium": 2
+          },
+          {
+            "totalPotassium": 248,
+            "servingPotassium": 25
+          }
         ],
         "graphInformation": [
-          { "leucine": 46, "totalLeucine": 250, "servingLeucine": 25 },
-          { "tirosine": 18, "totalTirosine": 100, "servingTirosine": 10 },
-          { "fenil": 25, "totalFenil": 140, "servingFenil": 14 },
-          { "metiotine": 11, "totalMetiotine": 60, "servingMetiotine": 6 }
+          {
+            "leucine": 46,
+            "totalLeucine": 250,
+            "servingLeucine": 25
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 100,
+            "servingTirosine": 10
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 140,
+            "servingFenil": 14
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 60,
+            "servingMetiotine": 6
+          }
         ]
       },
       {
@@ -1026,18 +1944,52 @@
         ],
         "servings": "15 fatias",
         "nutritionalInformation": [
-          { "totalEnergy": 1791, "servingEnergy": 119 },
-          { "totalCarbs": 382, "servingCarbs": 25 },
-          { "totalProteins": 4.4, "servingProteins": 0.3 },
-          { "totalLipids": 24, "servingLipids": 2 },
-          { "totalSodium": 46, "servingSodium": 3 },
-          { "totalPotassium": 72, "servingPotassium": 5 }
+          {
+            "totalEnergy": 1791,
+            "servingEnergy": 119
+          },
+          {
+            "totalCarbs": 382,
+            "servingCarbs": 25
+          },
+          {
+            "totalProteins": 4.4,
+            "servingProteins": 0.3
+          },
+          {
+            "totalLipids": 24,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 46,
+            "servingSodium": 3
+          },
+          {
+            "totalPotassium": 72,
+            "servingPotassium": 5
+          }
         ],
         "graphInformation": [
-          { "leucine": 44, "totalLeucine": 420, "servingLeucine": 28 },
-          { "tirosine": 19, "totalTirosine": 180, "servingTirosine": 12 },
-          { "fenil": 25, "totalFenil": 240, "servingFenil": 16 },
-          { "metiotine": 12, "totalMetiotine": 110, "servingMetiotine": 7 }
+          {
+            "leucine": 44,
+            "totalLeucine": 420,
+            "servingLeucine": 28
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 180,
+            "servingTirosine": 12
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 240,
+            "servingFenil": 16
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 110,
+            "servingMetiotine": 7
+          }
         ]
       },
       {
@@ -1065,18 +2017,52 @@
         ],
         "servings": "10 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 2043, "servingEnergy": 204 },
-          { "totalCarbs": 415, "servingCarbs": 41 },
-          { "totalProteins": 4.3, "servingProteins": 0.4 },
-          { "totalLipids": 39, "servingLipids": 4 },
-          { "totalSodium": 267, "servingSodium": 27 },
-          { "totalPotassium": 108, "servingPotassium": 11 }
+          {
+            "totalEnergy": 2043,
+            "servingEnergy": 204
+          },
+          {
+            "totalCarbs": 415,
+            "servingCarbs": 41
+          },
+          {
+            "totalProteins": 4.3,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 39,
+            "servingLipids": 4
+          },
+          {
+            "totalSodium": 267,
+            "servingSodium": 27
+          },
+          {
+            "totalPotassium": 108,
+            "servingPotassium": 11
+          }
         ],
         "graphInformation": [
-          { "leucine": 45, "totalLeucine": 400, "servingLeucine": 40 },
-          { "tirosine": 18, "totalTirosine": 160, "servingTirosine": 16 },
-          { "fenil": 26, "totalFenil": 230, "servingFenil": 23 },
-          { "metiotine": 11, "totalMetiotine": 100, "servingMetiotine": 10 }
+          {
+            "leucine": 45,
+            "totalLeucine": 400,
+            "servingLeucine": 40
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 160,
+            "servingTirosine": 16
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 230,
+            "servingFenil": 23
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 100,
+            "servingMetiotine": 10
+          }
         ]
       },
       {
@@ -1101,18 +2087,842 @@
         ],
         "servings": "6 unidades",
         "nutritionalInformation": [
-          { "totalEnergy": 825, "servingEnergy": 138 },
-          { "totalCarbs": 156, "servingCarbs": 26 },
-          { "totalProteins": 5.2, "servingProteins": 0.9 },
-          { "totalLipids": 22, "servingLipids": 4 },
-          { "totalSodium": 41, "servingSodium": 7 },
-          { "totalPotassium": 663, "servingPotassium": 111 }
+          {
+            "totalEnergy": 825,
+            "servingEnergy": 138
+          },
+          {
+            "totalCarbs": 156,
+            "servingCarbs": 26
+          },
+          {
+            "totalProteins": 5.2,
+            "servingProteins": 0.9
+          },
+          {
+            "totalLipids": 22,
+            "servingLipids": 4
+          },
+          {
+            "totalSodium": 41,
+            "servingSodium": 7
+          },
+          {
+            "totalPotassium": 663,
+            "servingPotassium": 111
+          }
         ],
         "graphInformation": [
-          { "leucine": 46, "totalLeucine": 450, "servingLeucine": 75 },
-          { "tirosine": 19, "totalTirosine": 190, "servingTirosine": 32 },
-          { "fenil": 25, "totalFenil": 250, "servingFenil": 42 },
-          { "metiotine": 10, "totalMetiotine": 100, "servingMetiotine": 17 }
+          {
+            "leucine": 46,
+            "totalLeucine": 450,
+            "servingLeucine": 75
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 190,
+            "servingTirosine": 32
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 250,
+            "servingFenil": 42
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 100,
+            "servingMetiotine": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Doces",
+    "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "recipes": [
+      {
+        "id": 31,
+        "name": "Beijinho de tapioca sabor limão",
+        "image": "https://images.unsplash.com/photo-1630953899439-e1b44977d777?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "60g de açúcar refinado",
+          "26g de tapioca desidratada",
+          "30g de coco seco ralado",
+          "45g de leite de coco",
+          "6g de margarina sem sal",
+          "3g de suco de limão"
+        ],
+        "preparation": [
+          "1- Em uma panela, misture todos os ingredientes;",
+          "2- Leve ao fogo, mexendo sempre, e cozinhe até desgrudar do fundo da panela;",
+          "3- Deixe esfriar e formate os docinhos."
+        ],
+        "servings": "10 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 633,
+            "servingEnergy": 63
+          },
+          {
+            "totalCarbs": 92,
+            "servingCarbs": 9
+          },
+          {
+            "totalProteins": 3,
+            "servingProteins": 0.3
+          },
+          {
+            "totalLipids": 31,
+            "servingLipids": 3
+          },
+          {
+            "totalSodium": 54,
+            "servingSodium": 5
+          },
+          {
+            "totalPotassium": 269,
+            "servingPotassium": 27
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 42,
+            "totalLeucine": 220,
+            "servingLeucine": 22
+          },
+          {
+            "tirosine": 17,
+            "totalTirosine": 90,
+            "servingTirosine": 9
+          },
+          {
+            "fenil": 29,
+            "totalFenil": 150,
+            "servingFenil": 15
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 60,
+            "servingMetiotine": 6
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Brigadeiro catarina",
+        "image": "https://images.unsplash.com/photo-1565814598158-c9e60d235405?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "10g de açúcar refinado",
+          "50g de achocolatado em pó",
+          "30g de gotas de chocolate",
+          "15g de creme de leite",
+          "5g de margarina sem sal",
+          "80g de tapioca hidratada",
+          "30g de confeito granulado"
+        ],
+        "preparation": [
+          "1- Coloque todos os ingredientes em uma panela;",
+          "2- Mexa em fogo baixo até conseguir um ponto elástico, desgrudando do fundo da panela;",
+          "3- Deixe esfriar em geladeira por alguns minutos; 4- Enrole passando em confeitos de granulado."
+        ],
+        "servings": "10 fatias",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 745,
+            "servingEnergy": 75
+          },
+          {
+            "totalCarbs": 147,
+            "servingCarbs": 15
+          },
+          {
+            "totalProteins": 1.7,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 17,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 7,
+            "servingSodium": 1
+          },
+          {
+            "totalPotassium": 27,
+            "servingPotassium": 3
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 70,
+            "servingLeucine": 7
+          },
+          {
+            "tirosine": 25,
+            "totalTirosine": 40,
+            "servingTirosine": 4
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 40,
+            "servingFenil": 4
+          },
+          {
+            "metiotine": 6,
+            "totalMetiotine": 10,
+            "servingMetiotine": 1
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Crepioca de banana",
+        "image": "https://media.istockphoto.com/id/486011238/pt/foto/casabe-de-mandioca-tapioca.jpg?s=2048x2048&w=is&k=20&c=LirYDmSn682sbu36mynQz8yGdS8blCsgFLjWVb43kLU=",
+        "ingredients": [
+          "80g de banana",
+          "75g de massa de tapioca hidratada"
+        ],
+        "preparation": [
+          "1- Amasse a banana com o auxílio de um garfo e junte com a massa de tapioca já hidratada;",
+          "2- Em uma frigideira antiaderente, disponha a mistura e cozinhe de ambos os lados;",
+          "3- Sirva quente"
+        ],
+        "servings": "2 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 341,
+            "servingEnergy": 171
+          },
+          {
+            "totalCarbs": 85,
+            "servingCarbs": 42
+          },
+          {
+            "totalProteins": 1.1,
+            "servingProteins": 0.5
+          },
+          {
+            "totalLipids": 0,
+            "servingLipids": 0
+          },
+          {
+            "totalSodium": 2,
+            "servingSodium": 1
+          },
+          {
+            "totalPotassium": 325,
+            "servingPotassium": 163
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 50,
+            "totalLeucine": 60,
+            "servingLeucine": 30
+          },
+          {
+            "tirosine": 17,
+            "totalTirosine": 20,
+            "servingTirosine": 10
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 30,
+            "servingFenil": 15
+          },
+          {
+            "metiotine": 8,
+            "totalMetiotine": 10,
+            "servingMetiotine": 5
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Crumble de maçã",
+        "image": "https://images.unsplash.com/photo-1589462239133-1e04f802685d?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "Ingredientes da farofa",
+          "220g de farinha sem glúten",
+          "75g de margarina sem sal",
+          "80g de açúcar refinado ou mascavo",
+          "Ingredientes do recheio",
+          "500g de maçã com casca",
+          "100g de açúcar refinado ou mascavo",
+          "120g de creme de leite",
+          "0,5g de canela em pó"
+        ],
+        "preparation": [
+          "Modo de preparo da farofa",
+          "1- Misture a farinha e o açúcar;",
+          "2- Adicione a margarina aos poucos e com as pontas dos dedos misture até formar uma farofa, reserve.",
+          "Modo de preparo do recheio",
+          "1- Lave bem as maçãs e corte em fatias dentro de uma bacia com água e limão para não escurecer;",
+          "2- Escorra bem as fatias e disponha num refratário baixo;",
+          "3- Polvilhe o açúcar, espalhe o creme de leite e salpique a canela por cima das maçãs;",
+          "4- Disponha a farofa por cima do recheio;",
+          "5- Asse em forno pré-aquecido a 200°C por aproximadamente 40 minutos ou até dourar."
+        ],
+        "servings": "20 fatias",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 2308,
+            "servingEnergy": 115
+          },
+          {
+            "totalCarbs": 445,
+            "servingCarbs": 22
+          },
+          {
+            "totalProteins": 6.1,
+            "servingProteins": 0.3
+          },
+          {
+            "totalLipids": 63,
+            "servingLipids": 3
+          },
+          {
+            "totalSodium": 534,
+            "servingSodium": 27
+          },
+          {
+            "totalPotassium": 1063,
+            "servingPotassium": 53
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 46,
+            "totalLeucine": 570,
+            "servingLeucine": 29
+          },
+          {
+            "tirosine": 20,
+            "totalTirosine": 250,
+            "servingTirosine": 13
+          },
+          {
+            "fenil": 23,
+            "totalFenil": 290,
+            "servingFenil": 15
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 140,
+            "servingMetiotine": 7
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Doce de maçã",
+        "image": "https://images.unsplash.com/photo-1603777953657-e57b62f12c77?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "300ml de água",
+          "100g de açúcar refinado",
+          "550g de maçã",
+          "60g de suco de polpa de maracujá batido e coado 2g de cravo",
+          "5g de canela em pau"
+        ],
+        "preparation": [
+          "1- Higienize as maçãs, retire as semente e corte em cubos grandes com ou sem casca;",
+          "2- Em uma panela de pressão, adicione as maçãs e os demais ingredientes;",
+          "3- Leve ao fogo e conte 3 minutos a partir do momento que começar a chiar;",
+          "4- Desligue e a pressão da panela;",
+          "5- Despeje o doce em um refratário e leve para gelar."
+        ],
+        "servings": "10 porções",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 754,
+            "servingEnergy": 75
+          },
+          {
+            "totalCarbs": 191,
+            "servingCarbs": 19
+          },
+          {
+            "totalProteins": 2.5,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 2,
+            "servingLipids": 0
+          },
+          {
+            "totalSodium": 1,
+            "servingSodium": 0
+          },
+          {
+            "totalPotassium": 635,
+            "servingPotassium": 63
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 43,
+            "totalLeucine": 120,
+            "servingLeucine": 12
+          },
+          {
+            "tirosine": 21,
+            "totalTirosine": 60,
+            "servingTirosine": 6
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 70,
+            "servingFenil": 7
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 30,
+            "servingMetiotine": 3
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Manjar de coco",
+        "image": "https://images.unsplash.com/photo-1548084769-1b94d5c3168e?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "Ingredientes da 1a parte",
+          "60g de açúcar refinado",
+          "210g de leite de coco",
+          "15g de coco seco ralado",
+          "Ingredientes da 2a parte",
+          "100g de creme de leite",
+          "100ml de água",
+          "15g de amido de milho",
+          "Ingredientes da calda",
+          "160g de geleia de frutas",
+          "3g de amido de milho",
+          "50ml de água"
+        ],
+        "preparation": [
+          "1- Em uma panela, despeje o leite de coco, o açúcar e o coco ralado. Misture bem e leve ao fogo;",
+          "2- Em um outro recipiente, misture o creme de leite com a água e o amido de milho;",
+          "3- Assim que o leite de coco começar a ferver, abaixe o fogo e adicione a mistura de creme de leite, água e amido de milho;",
+          "4- Mexa sem parar até engrossar, cerca de 5 minutos;",
+          "5- Esfrie a panela com o manjar em uma bacia com água fria;",
+          "6- Enquanto isso, faça a geleia. Em uma panela, misture a geleia, a água e o amido de milho, leve ao fogo até engrossar;",
+          "6- Porcione o manjar em taças e despeje a calda por cima;",
+          "7- Sirva gelado."
+        ],
+        "servings": "10 taças",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1446,
+            "servingEnergy": 145
+          },
+          {
+            "totalCarbs": 192,
+            "servingCarbs": 19
+          },
+          {
+            "totalProteins": 8.9,
+            "servingProteins": 0.9
+          },
+          {
+            "totalLipids": 80,
+            "servingLipids": 8
+          },
+          {
+            "totalSodium": 136,
+            "servingSodium": 14
+          },
+          {
+            "totalPotassium": 783,
+            "servingPotassium": 78
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 700,
+            "servingLeucine": 70
+          },
+          {
+            "tirosine": 20,
+            "totalTirosine": 320,
+            "servingTirosine": 32
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 420,
+            "servingFenil": 42
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 160,
+            "servingMetiotine": 16
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Mousse de limão I",
+        "image": "https://images.unsplash.com/photo-1582834936490-9747caf8ca4a?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "205g de chantilly vegetal",
+          "50g de creme de leite",
+          "40g de suco de limão",
+          "5g de raspas de limão",
+          "75 gotas de chocolate branco"
+        ],
+        "preparation": [
+          "1- Em uma batedeira, bata o chantilly vegetal em ponto firme;",
+          "2- Misture com o suco de limão e reserve;",
+          "3- Derreta o chocolate e misture o creme de leite;",
+          "4- Adicione o chocolate à mistura de chantilly com limão;",
+          "5- Leve à geladeira para gelar e sirva com raspas de limão por cima."
+        ],
+        "servings": "8 fatias",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1555,
+            "servingEnergy": 156
+          },
+          {
+            "totalCarbs": 117,
+            "servingCarbs": 12
+          },
+          {
+            "totalProteins": 6.6,
+            "servingProteins": 0.7
+          },
+          {
+            "totalLipids": 118,
+            "servingLipids": 12
+          },
+          {
+            "totalSodium": 204,
+            "servingSodium": 20
+          },
+          {
+            "totalPotassium": 89,
+            "servingPotassium": 9
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 620,
+            "servingLeucine": 62
+          },
+          {
+            "tirosine": 23,
+            "totalTirosine": 320,
+            "servingTirosine": 32
+          },
+          {
+            "fenil": 23,
+            "totalFenil": 320,
+            "servingFenil": 32
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 150,
+            "servingMetiotine": 15
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Mousse de limão II",
+        "image": "https://plus.unsplash.com/premium_photo-1669880504277-1c79daa58c12?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "200ml de água",
+          "30g de amido de milho",
+          "100g de açúcar refinado",
+          "50g de suco de limão",
+          "65g de chantilly vegetal"
+        ],
+        "preparation": [
+          "1- Em uma panela pequena, misture a água, o amido de milho e o suco de limão;",
+          "2- Cozinhe em fogo baixo até engrossar;",
+          "3- Retire do fogo, adicione o açúcar e reserve;",
+          "4- Após esfriar, bata na batedeira junto com o chantilly vegetal para dar cremosidade;",
+          "5- Distribua em tacinhas e leve à geladeira até ficar firme."
+        ],
+        "servings": "3 taças",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 709,
+            "servingEnergy": 236
+          },
+          {
+            "totalCarbs": 138,
+            "servingCarbs": 46
+          },
+          {
+            "totalProteins": 0.5,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 18,
+            "servingLipids": 3
+          },
+          {
+            "totalSodium": 43,
+            "servingSodium": 14
+          },
+          {
+            "totalPotassium": 57,
+            "servingPotassium": 19
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 55,
+            "totalLeucine": 30,
+            "servingLeucine": 10
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 10,
+            "servingTirosine": 3
+          },
+          {
+            "fenil": 18,
+            "totalFenil": 10,
+            "servingFenil": 3
+          },
+          {
+            "metiotine": 9,
+            "totalMetiotine": 5,
+            "servingMetiotine": 2
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Mousse de maracujá",
+        "image": "https://media.istockphoto.com/id/1495638879/pt/foto/passion-fruit-cheesecake.jpg?s=2048x2048&w=is&k=20&c=h0qp3jwMW1SxwxMmZ5m-foJvyPTcQ4jBYR558LQrL4c=",
+        "ingredients": [
+          "200ml de água",
+          "30g de amido de milho",
+          "100g de açúcar refinado",
+          "70g de suco de maracujá",
+          "100g de chantilly vegetal"
+        ],
+        "preparation": [
+          "1- Em uma panela pequena, misture a água, o amido de milho e o suco de maracujá;",
+          "2- Cozinhe em fogo baixo até engrossar;",
+          "3- Retire do fogo, adicione o açúcar e reserve;",
+          "4- Após esfriar, bata na batedeira junto com o chantilly vegetal para dar cremosidade;",
+          "5- Distribua em tacinhas e leve à geladeira até ficar firme."
+        ],
+        "servings": "4 taças",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 845,
+            "servingEnergy": 211
+          },
+          {
+            "totalCarbs": 147,
+            "servingCarbs": 37
+          },
+          {
+            "totalProteins": 2,
+            "servingProteins": 0.5
+          },
+          {
+            "totalLipids": 26,
+            "servingLipids": 7
+          },
+          {
+            "totalSodium": 83,
+            "servingSodium": 21
+          },
+          {
+            "totalPotassium": 247,
+            "servingPotassium": 62
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 100,
+            "servingLeucine": 25
+          },
+          {
+            "tirosine": 24,
+            "totalTirosine": 60,
+            "servingTirosine": 15
+          },
+          {
+            "fenil": 24,
+            "totalFenil": 60,
+            "servingFenil": 15
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 30,
+            "servingMetiotine": 8
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Pudim de banana com tapioca",
+        "image": "https://images.unsplash.com/photo-1550461716-dbf266b2a8a7?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "Ingredientes da calda",
+          "300g de açúcar refinado",
+          "180ml de água",
+          "Ingredientes do pudim",
+          "200ml de água",
+          "60g de creme de leite ou leite de coco",
+          "70g de tapioca granulada",
+          "Demais ingredientes",
+          "120g de banana nanica",
+          "60g de farinha hipoproteica",
+          "150ml de água",
+          "60g de creme de leite ou leite de coco",
+          "1g de essência de baunilha",
+          "0,5g de canela em pó"
+        ],
+        "preparation": [
+          "Modo de preparo da calda",
+          "1- Em uma panela, derreta o açúcar em fogo baixo até caramelizar;",
+          "2- Com cuidado, adicione a água aos poucos e misture até desmanchar os grumos de caramelo;",
+          "3- É possível fazer a calda antecipadamente e deixar na geladeira para que fique mais consistente.",
+          "Modo de preparo do pudim",
+          "1- Aqueça a água com creme de leite ou leite de coco e jogue por cima da tapioca;",
+          "2- Misture bem e deixe hidratar em geladeira por aproximadamente 2 horas até que fique inchada e macia;",
+          "3- No liquidificador, bata a tapioca já hidratada com o restante dos ingredientes por cerca de 2 minutos;",
+          "4- Espalhe a calda no fundo e laterais de uma forma e despeje a massa;",
+          "5- Asse em forno pré-aquecido a 200°C por aproximadamente 45 minutos;",
+          "6- Retire do forno e deixe esfriar antes de desenformar;",
+          "7- Aqueça o fundo da forma na chama do fogão e desenforme com ajuda de uma faca soltando as laterais;",
+          "8- Espalhe a calda por cima e sirva bem gelado."
+        ],
+        "servings": "20 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 2041,
+            "servingEnergy": 102
+          },
+          {
+            "totalCarbs": 444,
+            "servingCarbs": 22
+          },
+          {
+            "totalProteins": 5,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 32,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 50,
+            "servingSodium": 2
+          },
+          {
+            "totalPotassium": 630,
+            "servingPotassium": 31
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 45,
+            "totalLeucine": 440,
+            "servingLeucine": 22
+          },
+          {
+            "tirosine": 21,
+            "totalTirosine": 200,
+            "servingTirosine": 10
+          },
+          {
+            "fenil": 24,
+            "totalFenil": 230,
+            "servingFenil": 12
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 100,
+            "servingMetiotine": 5
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Pudim de tapioca",
+        "image": "https://media.istockphoto.com/id/676301900/pt/foto/brazilian-tapioca.jpg?s=2048x2048&w=is&k=20&c=gewKeeIpCeK670y7FtZBjX3FiozHdRV8RxGIKrmbri0=",
+        "ingredients": [
+          "100ml de água",
+          "160g de açúcar refinado",
+          "200g de leite de coco diluído em 100ml de água",
+          "100g de tapioca desidratada",
+          "25g de margarina sem sal",
+          "30g de amido de milho",
+          "125g de creme de leite",
+          "10g de coco ralado",
+          "10g de pó para preparo de flan sabor baunilha"
+        ],
+        "preparation": [
+          "Modo de preparo da calda",
+          "1- Em uma panela, derreta o quanto baste de açúcar e faça um caramelo;",
+          "2- Envolva uma forma com a calda de caramelo ainda quente e reserve.",
+          "Modo de preparo do pudim",
+          "1- Em uma vasilha, coloque a tapioca de molho no leite de coco diluído em água por alguns minutos;",
+          "2- Bata no liquidificador a tapioca já hidratada com os demais ingredientes, exceto o coco ralado;",
+          "3- Adicione o coco na mistura e coloque na forma caramelizada;",
+          "4- Asse em banho maria no forno ou panela por aproximadamente 40 minutos."
+        ],
+        "servings": "10 fatias",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1425,
+            "servingEnergy": 143
+          },
+          {
+            "totalCarbs": 181,
+            "servingCarbs": 18
+          },
+          {
+            "totalProteins": 7.8,
+            "servingProteins": 0.8
+          },
+          {
+            "totalLipids": 81,
+            "servingLipids": 8
+          },
+          {
+            "totalSodium": 78,
+            "servingSodium": 8
+          },
+          {
+            "totalPotassium": 641,
+            "servingPotassium": 64
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 43,
+            "totalLeucine": 660,
+            "servingLeucine": 66
+          },
+          {
+            "tirosine": 20,
+            "totalTirosine": 300,
+            "servingTirosine": 30
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 390,
+            "servingFenil": 39
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 170,
+            "servingMetiotine": 17
+          }
         ]
       }
     ]

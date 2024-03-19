@@ -2,6 +2,7 @@ export enum Categories {
   drinksAndCreams = "Bebidas e cremes",
   biscuitsAndCrackers = "Biscoitos e bolachas",
   cakesAndLittleCakes = "Bolos e bolinhos",
+  sweets = "Doces",
 }
 export interface NutritionalInfo {
   totalEnergy: number;
