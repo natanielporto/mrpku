@@ -2926,5 +2926,1315 @@
         ]
       }
     ]
+  },
+  {
+    "category": "Massas",
+    "image": "https://plus.unsplash.com/premium_photo-1666174324534-36844f5afc7e?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "recipes": [
+      {
+        "id": 42,
+        "name": "Coxinha de mandioca",
+        "image": "https://media.istockphoto.com/id/1358848345/pt/foto/traditional-fried-coxinha-on-a-black-plate-on-a-slate-background-brazilian-snack.jpg?s=2048x2048&w=is&k=20&c=i7PQjoXNiDKa8HNLqN3HVCWKjcyQp3ZBRvnp7XMdhsM=",
+        "ingredients": [
+          "500ml de água",
+          "400g de mandioca",
+          "100g de farinha hipoproteica",
+          "70g de farinha de mandioca",
+          "25g de margarina sem sal",
+          "6g de sal",
+          "1g de páprica doce",
+          "1g de orégano seco"
+        ],
+        "preparation": [
+          "1- Cozinhe a mandioca, amasse até obter um purê e reserve;",
+          "2- Em uma panela, ferva a água com a margarina, o sal, a páprica e o orégano;",
+          "3- Acrescente o purê de mandioca e dissolva bem até ficar uma massa homogênea;",
+          "4- Acrescente a farinha hipoproteica e cozinhe por 5 minutos, mexendo sempre;",
+          "5- Retire a massa da panela e coloque em uma bancada, amasse com auxílio de uma colher e depois com as mãos até ficar bem lisinha e firme. Deixar esfriar para moldar;",
+          "6- Recheie com legumes cozidos e temperados a gosto;",
+          "7- Para empanar passe na água e em seguida na farinha de mandioca peneirada;",
+          "8- Frite em óleo quente e coloque em papel absorvente."
+        ],
+        "servings": "18 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1956,
+            "servingEnergy": 109
+          },
+          {
+            "totalCarbs": 298,
+            "servingCarbs": 17
+          },
+          {
+            "totalProteins": 7.4,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 81,
+            "servingLipids": 4
+          },
+          {
+            "totalSodium": 2583,
+            "servingSodium": 144
+          },
+          {
+            "totalPotassium": 1100,
+            "servingPotassium": 61
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 40,
+            "totalLeucine": 280,
+            "servingLeucine": 16
+          },
+          {
+            "tirosine": 23,
+            "totalTirosine": 160,
+            "servingTirosine": 9
+          },
+          {
+            "fenil": 27,
+            "totalFenil": 190,
+            "servingFenil": 11
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 70,
+            "servingMetiotine": 4
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Massa para torta ou empada",
+        "image": "https://plus.unsplash.com/premium_photo-1666174326073-327a1fcfb431?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "100g de farinha hipoproteica",
+          "70g de margarina sem sal",
+          "5g de emulsificante",
+          "3g de sal",
+          "1g de fermento químico em pó",
+          "0,5g de açafrão em pó"
+        ],
+        "preparation": [
+          "1- Misture todos os ingredientes, exceto a farinha;",
+          "2- Adicione a farinha aos poucos até dar o ponto da massa, que deve ficar parecida com massa de pastel;",
+          "3- Coloque em forminhas e recheie com legumes a gosto;",
+          "4- Leve ao forno pré-aquecido a 200°C até dourarem."
+        ],
+        "servings": "6 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 569,
+            "servingEnergy": 95
+          },
+          {
+            "totalCarbs": 85,
+            "servingCarbs": 14
+          },
+          {
+            "totalProteins": 0.6,
+            "servingProteins": 0.1
+          },
+          {
+            "totalLipids": 26,
+            "servingLipids": 4
+          },
+          {
+            "totalSodium": 1583,
+            "servingSodium": 264
+          },
+          {
+            "totalPotassium": 9,
+            "servingPotassium": 1
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 45,
+            "totalLeucine": 40,
+            "servingLeucine": 7
+          },
+          {
+            "tirosine": 22,
+            "totalTirosine": 20,
+            "servingTirosine": 3
+          },
+          {
+            "fenil": 22,
+            "totalFenil": 20,
+            "servingFenil": 3
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 10,
+            "servingMetiotine": 2
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Massa para empadinha",
+        "image": "https://plus.unsplash.com/premium_photo-1666174326073-327a1fcfb431?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "140g de farinha sem glúten",
+          "1g de goma xantana",
+          "2g de sal",
+          "2g de açúcar refinado",
+          "60g de margarina sem sal",
+          "40ml de água"
+        ],
+        "preparation": [
+          "1- Em um recipiente, misture todos os ingredientes até obter uma massa lisa que não grude nas mãos;",
+          "2- Abra a massa com o auxílio de um rolo e disponha em forminhas individuais;",
+          "3- Recheie com o recheio de sua preferência;",
+          "4- Leve ao forno pré-aquecido a 180°C por aproximadamente 20 minutos."
+        ],
+        "servings": "5 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 716,
+            "servingEnergy": 236
+          },
+          {
+            "totalCarbs": 126,
+            "servingCarbs": 42
+          },
+          {
+            "totalProteins": 2.8,
+            "servingProteins": 0.9
+          },
+          {
+            "totalLipids": 22,
+            "servingLipids": 7
+          },
+          {
+            "totalSodium": 1139,
+            "servingSodium": 380
+          },
+          {
+            "totalPotassium": 0,
+            "servingPotassium": 0
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 270,
+            "servingLeucine": 90
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 110,
+            "servingTirosine": 37
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 160,
+            "servingFenil": 53
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 70,
+            "servingMetiotine": 23
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Panqueca docinha",
+        "image": "https://images.unsplash.com/photo-1705138591117-2aaf6a7e08ae?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "40ml de água morna",
+          "20g de creme de leite",
+          "50g de farinha sem glúten",
+          "4g de óleo vegetal",
+          "5g de fermento químico em pó",
+          "30g de açúcar refinado"
+        ],
+        "preparation": [
+          "1- Em um recipiente, misture todos os ingredientes e bata com o auxílio de um fuê ou mixer até que fique uma massa homogênea;",
+          "2- Pegue porções da massa com uma concha e coloque em uma frigideira pré-aquecida e untada com óleo;",
+          "3- Doure a massa de ambos os lados",
+          "4- Recheie a gosto."
+        ],
+        "servings": "2 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 196,
+            "servingEnergy": 39
+          },
+          {
+            "totalCarbs": 77,
+            "servingCarbs": 38
+          },
+          {
+            "totalProteins": 1.5,
+            "servingProteins": 0.7
+          },
+          {
+            "totalLipids": 9,
+            "servingLipids": 5
+          },
+          {
+            "totalSodium": 9,
+            "servingSodium": 5
+          },
+          {
+            "totalPotassium": 24,
+            "servingPotassium": 12
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 46,
+            "totalLeucine": 150,
+            "servingLeucine": 75
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 60,
+            "servingTirosine": 30
+          },
+          {
+            "fenil": 24,
+            "totalFenil": 80,
+            "servingFenil": 40
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 40,
+            "servingMetiotine": 20
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Panqueca de cenoura",
+        "image": "https://images.unsplash.com/photo-1587131791788-ec0cb04e0a52?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "200ml de água",
+          "15g de creme de leite",
+          "6g de óleo vegetal",
+          "2g de sal",
+          "3g de fermento químico em pó 20g de cenoura",
+          "70g de farinha sem glúten"
+        ],
+        "preparation": [
+          "1- Bata todos os ingredientes no liquidificador e reserve;",
+          "2- Unte uma frigideira com um fio de óleo e leve ao fogo até aquecer;",
+          "3- Divida a massa em 3 porções iguais e com auxílio de uma concha pegue uma porção de massa e coloque na frigideira, gire a frigideira para espalhar bem a massa;",
+          "4- Abaixe o fogo e deixe dourar por baixo, em seguida vire do outro lado e deixe dourar;",
+          "5- Repita o processo com toda massa;",
+          "6- Recheie a gosto."
+        ],
+        "servings": "3 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 355,
+            "servingEnergy": 118
+          },
+          {
+            "totalCarbs": 63,
+            "servingCarbs": 21
+          },
+          {
+            "totalProteins": 1.3,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 11,
+            "servingLipids": 4
+          },
+          {
+            "totalSodium": 788,
+            "servingSodium": 263
+          },
+          {
+            "totalPotassium": 82,
+            "servingPotassium": 27
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 110,
+            "servingLeucine": 37
+          },
+          {
+            "tirosine": 20,
+            "totalTirosine": 50,
+            "servingTirosine": 17
+          },
+          {
+            "fenil": 24,
+            "totalFenil": 60,
+            "servingFenil": 20
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 30,
+            "servingMetiotine": 10
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Massa para pastel",
+        "image": "https://plus.unsplash.com/premium_photo-1663853495255-f43171eaf9b4?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "220g de mandioca",
+          "120g de farinha sem glúten",
+          "20g de creme de leite",
+          "3g de sal"
+        ],
+        "preparation": [
+          "1- Cozinhe a mandioca e passe no espremedor ou amasse bem com o garfo ainda quente;",
+          "2- Em um recipiente, coloque o purê de mandioca, acrescente o creme de leite, o sal e os poucos a farinha até obter uma massa homogênea;",
+          "3- Abra a massa com o auxílio de um rolo e molde os pastéis;",
+          "4- Coloque o recheio de sua preferência;",
+          "5- Asse em forno pré-aquecido por aproxi- madamente 20 minutos."
+        ],
+        "servings": "10 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 833,
+            "servingEnergy": 83
+          },
+          {
+            "totalCarbs": 186,
+            "servingCarbs": 19
+          },
+          {
+            "totalProteins": 4.7,
+            "servingProteins": 0.5
+          },
+          {
+            "totalLipids": 8,
+            "servingLipids": 1
+          },
+          {
+            "totalSodium": 1201,
+            "servingSodium": 120
+          },
+          {
+            "totalPotassium": 619,
+            "servingPotassium": 62
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 43,
+            "totalLeucine": 250,
+            "servingLeucine": 25
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 110,
+            "servingTirosine": 11
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 150,
+            "servingFenil": 15
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 70,
+            "servingMetiotine": 7
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Pastel da Catarina",
+        "image": "https://images.unsplash.com/photo-1608039783021-6116a558f0c5?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "30ml de água morna",
+          "40g de creme de leite",
+          "30g de maionese",
+          "3g de mostarda",
+          "6g de vinagre de maçã",
+          "2g de sal",
+          "150g de farinha sem glúten"
+        ],
+        "preparation": [
+          "1- Em um recipiente misture todos os ingredientes, exceto a farinha;",
+          "2- Misture bem e acrescente a farinha aos poucos até a massa desgrudar das mãos;",
+          "3- Abra a massa com o auxílio de um rolo e corte em círculos;",
+          "4- Recheie a gosto e dobre os meio, fechando bem as laterais;",
+          "5- Leve para assar ou fritar até ficar mais crocante."
+        ],
+        "servings": "5 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 856,
+            "servingEnergy": 171
+          },
+          {
+            "totalCarbs": 130,
+            "servingCarbs": 26
+          },
+          {
+            "totalProteins": 3,
+            "servingProteins": 0.6
+          },
+          {
+            "totalLipids": 37,
+            "servingLipids": 7
+          },
+          {
+            "totalSodium": 610,
+            "servingSodium": 122
+          },
+          {
+            "totalPotassium": 62,
+            "servingPotassium": 12
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 280,
+            "servingLeucine": 56
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 120,
+            "servingTirosine": 24
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 160,
+            "servingFenil": 32
+          },
+          {
+            "metiotine": 12,
+            "totalMetiotine": 80,
+            "servingMetiotine": 16
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Massa de pizza",
+        "image": "https://images.unsplash.com/photo-1703317605426-815bb8b2c40a?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "90g de farinha hipoproteica",
+          "90g de amido de milho",
+          "50ml de água morna",
+          "30g de creme de leite",
+          "30g de maionese",
+          "4g de fermento químico para bolo",
+          "3g de sal"
+        ],
+        "preparation": [
+          "1- Em um recipiente, coloque a farinha, o amido de milho e o fermento e reserve;",
+          "2- Misture o creme de leite com a água e despeje na mistura seca;",
+          "3- Misture com uma colher até dar o ponto de amassar com as mãos;",
+          "4- Abra a massa e divida em duas porções em formato de pizza;",
+          "5- Adicione o recheio desejado e asse em forno pré-aquecido a 200°C por aproximadamente 25 minutos."
+        ],
+        "servings": "2 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 957,
+            "servingEnergy": 479
+          },
+          {
+            "totalCarbs": 163,
+            "servingCarbs": 82
+          },
+          {
+            "totalProteins": 1.7,
+            "servingProteins": 0.9
+          },
+          {
+            "totalLipids": 31,
+            "servingLipids": 16
+          },
+          {
+            "totalSodium": 1465,
+            "servingSodium": 733
+          },
+          {
+            "totalPotassium": 74,
+            "servingPotassium": 37
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 47,
+            "totalLeucine": 158,
+            "servingLeucine": 79
+          },
+          {
+            "tirosine": 21,
+            "totalTirosine": 70,
+            "servingTirosine": 35
+          },
+          {
+            "fenil": 23,
+            "totalFenil": 79,
+            "servingFenil": 40
+          },
+          {
+            "metiotine": 9,
+            "totalMetiotine": 31,
+            "servingMetiotine": 15
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Ravióli de Espinafre",
+        "image": "https://images.unsplash.com/photo-1616169775818-9f7115b8821e?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "Ingredientes do recheio",
+          "40g de mandioquinha",
+          "10g de margarina sem sal",
+          "2g de sal",
+          "1g de salsinha ou cebolinha",
+          "Ingredientes da massa",
+          "150g de farinha sem glúten 100ml de água",
+          "7g de banha",
+          "10g de espinafre cru",
+          "5g de CMC ou goma xantana",
+          "2g de sal"
+        ],
+        "preparation": [
+          "Modo de preparo do recheio",
+          "1- Descasque e cozinhe a mandioquinha até ficarem macias;",
+          "2- Amasse até virar um purê e adicione os demais ingredientes, reserve.",
+          "Modo de preparo da massa",
+          "1- Lave as folhas de espinafre;",
+          "2- Triture no liquidificador com o mínimo de água possível;",
+          "3- Em uma tigela, coloque a farinha, o CMC ou goma xantana, o sal e a banha;",
+          "4- Faça uma farofinha e aos poucos adicione o conteúdo do liquidificador até obter uma massa lisa e homogênea.",
+          "Montagem",
+          "1- Abra a massa com o auxílio de rolo;",
+          "2- Disponha o recheio, dobre a massa e corte do formato de sua preferência;",
+          "3- Cozinhe em água fervente com um fio de óleo;",
+          "4- Retire da água quando começarem a boiar;",
+          "5- Sirva com o molho de sua preferência."
+        ],
+        "servings": "8 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 694,
+            "servingEnergy": 87
+          },
+          {
+            "totalCarbs": 145,
+            "servingCarbs": 18
+          },
+          {
+            "totalProteins": 3.6,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 11,
+            "servingLipids": 1
+          },
+          {
+            "totalSodium": 1623,
+            "servingSodium": 203
+          },
+          {
+            "totalPotassium": 85,
+            "servingPotassium": 11
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 330,
+            "servingLeucine": 41
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 140,
+            "servingTirosine": 18
+          },
+          {
+            "fenil": 27,
+            "totalFenil": 200,
+            "servingFenil": 25
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 80,
+            "servingMetiotine": 10
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Risoles",
+        "image": "https://media.istockphoto.com/id/471026259/pt/foto/bacalhau-portugu%C3%AAs-bolos.jpg?s=2048x2048&w=is&k=20&c=V5me6LNz0a5u85ZjqlLtBF2iV0pXApgyiUPlcgmiXxs=",
+        "ingredients": [
+          "Ingredientes do recheio",
+          "25g de palmito",
+          "30g de cogumelos champignon 60g de tomate",
+          "15g de cebola",
+          "10g de milho",
+          "3g de salsinha",
+          "0,5g de orégano seco",
+          "5g de azeite de oliva",
+          "Ingredientes da massa",
+          "200ml de água",
+          "7,5g de caldo de legumes em sachê 30g de margarina sem sal",
+          "2g de goma xantana ou liga neutra 100g de farinha hipoproteica",
+          "20g de farinha sem glúten",
+          "Para empanar: 20g de farinha de mandioca"
+        ],
+        "preparation": [
+          "Modo de preparo da massa",
+          "1- Em uma panela, coloque a água com o sal, o orégano e a margarina para ferver;",
+          "2- Quando levantar fervura, adicione as farinhas aos poucos, mexa e cozinhe por alguns minutos. A massa deve ficar em consistência de polenta;",
+          "3- Retire a massa ainda quente da panela e amasse com auxílio de uma colher, depois com as mãos, até obter uma massa lisa para moldar;",
+          "4- Abra a massa e corte em 10 círculos para fazer os risoles, reserve.",
+          "Modo de preparo do recheio",
+          "1- Em uma panela, refogue a cebola no azeite;",
+          "2- Adicione os demais ingredientes e cozinhe;",
+          "3- Divida o recheio em 10 porções iguais e reserve.",
+          "Montagem",
+          "1- Recheie a massa e feche os risoles apertando bem as bordas;",
+          "2- Passe os risoles prontos na água e em seguida na farinha de mandioca peneirada para empanar;",
+          "3- Frite rapidamente em óleo quente e coloque no papel absorvente."
+        ],
+        "servings": "10 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1036,
+            "servingEnergy": 104
+          },
+          {
+            "totalCarbs": 130,
+            "servingCarbs": 13
+          },
+          {
+            "totalProteins": 3.5,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 57,
+            "servingLipids": 6
+          },
+          {
+            "totalSodium": 4571,
+            "servingSodium": 457
+          },
+          {
+            "totalPotassium": 276,
+            "servingPotassium": 28
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 240,
+            "servingLeucine": 24
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 100,
+            "servingTirosine": 10
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 140,
+            "servingFenil": 14
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 60,
+            "servingMetiotine": 6
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Waffles",
+        "image": "https://plus.unsplash.com/premium_photo-1673011775209-97272be970a2?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "180ml de água morna",
+          "50g de açúcar refinado",
+          "50g de banana amassada",
+          "100g de farinha sem glúten",
+          "5g de óleo de girassol",
+          "20g de creme de leite",
+          "5g de emulsificante",
+          "8g de vinagre de maçã",
+          "0,5g de essência de baunilha",
+          "2g de fermento químico em pó",
+          "1g de sal",
+          "1g de goma xantana",
+          "1g de ágar-ágar"
+        ],
+        "preparation": [
+          "1- Misture a banana amassada com o açúcar e o emulsificante, reserve;",
+          "2- Misture o vinagre e os demais ingredientes;",
+          "3- Adicione a farinha e o fermento químico, bata tudo com o auxílio de um fuê;",
+          "4- Ligue o grill para waffle na temperatura máxima e espere esquentar;",
+          "5- Coloque uma porção de massa no centro do grill e asse por 15 minutos ou até que esteja dourado e assado. Não abra antes de 10 minutos;",
+          "6- Sirva com margarina, mel ou geleia."
+        ],
+        "servings": "2 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 703,
+            "servingEnergy": 351
+          },
+          {
+            "totalCarbs": 149,
+            "servingCarbs": 75
+          },
+          {
+            "totalProteins": 2,
+            "servingProteins": 1
+          },
+          {
+            "totalLipids": 12,
+            "servingLipids": 6
+          },
+          {
+            "totalSodium": 396,
+            "servingSodium": 198
+          },
+          {
+            "totalPotassium": 231,
+            "servingPotassium": 115
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 46,
+            "totalLeucine": 180,
+            "servingLeucine": 90
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 70,
+            "servingTirosine": 35
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 100,
+            "servingFenil": 50
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 40,
+            "servingMetiotine": 20
+          }
+        ]
+      },
+    ]
+  },
+  {
+    "category": "Pães",
+    "image": "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "recipes": [
+      {
+        "id": 53,
+        "name": "Pãezinhos de ervas finas",
+        "image": "https://images.unsplash.com/photo-1536919011766-09449b44af40?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "130g de tapioca hidratada",
+          "250g de batata cozida",
+          "5g de óleo vegetal",
+          "6g de sal",
+          "3g de fermento químico em pó",
+          "15ml de água",
+          "0,5g de ervas secas (orégano, alecrim)"
+        ],
+        "preparation": [
+          "1- Amasse a batata até obter um purê;",
+          "2- Em um recipiente, misture o purê com os demais ingredientes;",
+          "3- Amasse até obter uma massa moldável;",
+          "4- Enrole em bolinhas com as mãos ou no formato que desejar;",
+          "5- Disponha em uma assadeira untada;",
+          "6- Asse em forno pré-aquecido a 200° C por aproximadamente 40 minutos."
+        ],
+        "servings": "20 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 733,
+            "servingEnergy": 37
+          },
+          {
+            "totalCarbs": 167,
+            "servingCarbs": 8
+          },
+          {
+            "totalProteins": 4.7,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 5,
+            "servingLipids": 0
+          },
+          {
+            "totalSodium": 2341,
+            "servingSodium": 117
+          },
+          {
+            "totalPotassium": 843,
+            "servingPotassium": 42
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 38,
+            "totalLeucine": 260,
+            "servingLeucine": 13
+          },
+          {
+            "tirosine": 24,
+            "totalTirosine": 160,
+            "servingTirosine": 8
+          },
+          {
+            "fenil": 28,
+            "totalFenil": 190,
+            "servingFenil": 10
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 70,
+            "servingMetiotine": 4
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Pão com mistura de farinhas",
+        "image": "https://images.unsplash.com/photo-1534620808146-d33bb39128b2?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "200g de amido de milho",
+          "200g de polvilho doce",
+          "100g de fécula de batata",
+          "100g de farinha de arroz",
+          "50g de liga neutra",
+          "200ml de água",
+          "60g de açúcar refinado",
+          "10g de fermento biológico seco em pó 10g de sal",
+          "20g de emulsificante",
+          "90g de margarina sem sal",
+          "75g de creme de leite",
+          "15g de óleo vegetal"
+        ],
+        "preparation": [
+          "1- Em um recipiente coloque 100ml de água quente, o açúcar, a margarina, o óleo e o emulsificante. Mexa bem até que a margarina derreta;",
+          "2- Acrescente o restante da água fria e o fermento, deixe descansar por 5 minutos;",
+          "3- Acrescente a mistura as farinhas, o sal, o creme de leite e bata na batedeira por alguns minutos;",
+          "4- Coloque a massa em um recipiente, deixe crescer e bata novamente;",
+          "5- Divida a massa em duas formas de pão untadas e deixe crescer novamente;",
+          "6- Asse em forno pré-aquecido 220°C até ficar dourado."
+        ],
+        "servings": "21 fatias",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 3218,
+            "servingEnergy": 153
+          },
+          {
+            "totalCarbs": 630,
+            "servingCarbs": 30
+          },
+          {
+            "totalProteins": 14.1,
+            "servingProteins": 0.7
+          },
+          {
+            "totalLipids": 69,
+            "servingLipids": 3
+          },
+          {
+            "totalSodium": 4466,
+            "servingSodium": 213
+          },
+          {
+            "totalPotassium": 230,
+            "servingPotassium": 11
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 41,
+            "totalLeucine": 1080,
+            "servingLeucine": 51
+          },
+          {
+            "tirosine": 23,
+            "totalTirosine": 590,
+            "servingTirosine": 28
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 640,
+            "servingFenil": 30
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 280,
+            "servingMetiotine": 13
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Pão de beijo gourmet",
+        "image": "https://images.unsplash.com/photo-1559141680-d0bd7bc5af84?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "150g de abóbora cozida",
+          "240g de batata cozida",
+          "90g de polvilho doce",
+          "200g de polvilho azedo",
+          "10g de fermento químico em pó 70ml de água",
+          "30g de óleo vegetal 5g de sal",
+          "2g de alho amassado 5g de salsinha"
+        ],
+        "preparation": [
+          "1- Misture a batata com abóbora e amasse até obter um purê;",
+          "2- Acrescente a água e depois os demais ingredientes, deixando o fermento por último;",
+          "3- Misture tudo até obter uma massa lisa e conseguir amassar com as mãos;",
+          "4- Faça bolinhas e disponha em uma assadeira;",
+          "5- Asse em forno pré-aquecido a 180°C por aproximadamente 1 hora."
+        ],
+        "servings": "40 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1558,
+            "servingEnergy": 39
+          },
+          {
+            "totalCarbs": 316,
+            "servingCarbs": 8
+          },
+          {
+            "totalProteins": 6.3,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 31,
+            "servingLipids": 1
+          },
+          {
+            "totalSodium": 1960,
+            "servingSodium": 49
+          },
+          {
+            "totalPotassium": 1200,
+            "servingPotassium": 30
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 38,
+            "totalLeucine": 310,
+            "servingLeucine": 8
+          },
+          {
+            "tirosine": 24,
+            "totalTirosine": 200,
+            "servingTirosine": 5
+          },
+          {
+            "fenil": 28,
+            "totalFenil": 230,
+            "servingFenil": 6
+          },
+          {
+            "metiotine": 10,
+            "totalMetiotine": 80,
+            "servingMetiotine": 2
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Pão frances",
+        "image": "https://images.unsplash.com/photo-1582509385126-c9ab0cb0449f?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "320g de farinha sem glúten",
+          "50g de polvilho doce",
+          "9g de sal",
+          "30g de açúcar refinado ou mascavo 10g de fermento biológico seco",
+          "5g e liga neutra ou goma xantana 6g de azeite de oliva",
+          "6g de vinagre de maçã",
+          "240ml de água",
+          "0,1g de açafrão em pó"
+        ],
+        "preparation": [
+          "1- Em um recipiente, misture o vinagre, o azeite e a água;",
+          "2- Adicione os demais ingredientes, misture com uma colher e depois com as mãos;",
+          "3- Sove bem, a massa fica um pouco pegajosa;",
+          "4- Separe a massa em 8 partes iguais e modele os pães com as mãos untadas com óleo, não é necessário deixar a massa crescer;",
+          "5- Disponha em uma assadeira untada com margarina e faça um corte de uma extremidade a outra em cima de cada um dos pães;",
+          "6- Asse em forno pré-aquecido a 220°C por 25 a 30 minutos. Não exceder o tempo de cozimento para não ficar duro, os pães ficam brancos;",
+          "7- É possível congelar depois de prontos e aquecer em micro-ondas por 30 segundos."
+        ],
+        "servings": "8 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1544,
+            "servingEnergy": 193
+          },
+          {
+            "totalCarbs": 351,
+            "servingCarbs": 44
+          },
+          {
+            "totalProteins": 8,
+            "servingProteins": 1
+          },
+          {
+            "totalLipids": 12,
+            "servingLipids": 2
+          },
+          {
+            "totalSodium": 3490,
+            "servingSodium": 436
+          },
+          {
+            "totalPotassium": 14,
+            "servingPotassium": 2
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 44,
+            "totalLeucine": 610,
+            "servingLeucine": 76
+          },
+          {
+            "tirosine": 19,
+            "totalTirosine": 260,
+            "servingTirosine": 33
+          },
+          {
+            "fenil": 26,
+            "totalFenil": 360,
+            "servingFenil": 45
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 150,
+            "servingMetiotine": 19
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Pão sabor queijo",
+        "image": "https://media.istockphoto.com/id/1249893961/pt/foto/brazilian-snack-traditional-cheese-bread.jpg?s=2048x2048&w=is&k=20&c=nobDyi5btyyO3bc3Zyb62X0_ScOncJJL2NSbbLTVq3M=",
+        "ingredients": [
+          "130g de polvilho azedo",
+          "60g de polvilho doce",
+          "90g de queijo vegano ralado 220g de creme de leite",
+          "5g de sal"
+        ],
+        "preparation": [
+          "1- Em uma vasilha, misture todos os ingredientes exceto o polvilho doce;",
+          "2- Acrescente o polvilho doce e misture novamente, a consistência da massa é pegajosa;",
+          "3- É possível utilizar somente o polvilho azedo, se preferir;",
+          "4- Modele os pães com o auxílio de duas colheres;",
+          "5- Disponha as porções em uma assadeira untada com margarina;",
+          "6- Leve ao forno pré-aquecido a 200°C até assar por completo."
+        ],
+        "servings": "16 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1481,
+            "servingEnergy": 93
+          },
+          {
+            "totalCarbs": 194,
+            "servingCarbs": 12
+          },
+          {
+            "totalProteins": 7.2,
+            "servingProteins": 0.4
+          },
+          {
+            "totalLipids": 76,
+            "servingLipids": 5
+          },
+          {
+            "totalSodium": 2260,
+            "servingSodium": 141
+          },
+          {
+            "totalPotassium": 273,
+            "servingPotassium": 17
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 43,
+            "totalLeucine": 610,
+            "servingLeucine": 38
+          },
+          {
+            "tirosine": 23,
+            "totalTirosine": 330,
+            "servingTirosine": 21
+          },
+          {
+            "fenil": 23,
+            "totalFenil": 320,
+            "servingFenil": 20
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 150,
+            "servingMetiotine": 9
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Pão de frigideira",
+        "image": "https://images.unsplash.com/photo-1599232288126-7dbd2127db14?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "60g de farinha sem glúten",
+          "15g de açúcar refinado",
+          "6g de óleo vegetal",
+          "30g de banana amassada",
+          "0,5g de goma xantana ou liga neutra 35ml de água morna",
+          "25g de creme de leite",
+          "8g de vinagre de maçã",
+          "1g de fermento químico em pó 1g de sal"
+        ],
+        "preparation": [
+          "1- Em um recipiente, misture todos os ingredientes exceto a água.",
+          "2- Adicione a água aos poucos até obter uma mistura homogênea;",
+          "3- Em uma frigideira antiaderente untada, disponha metade da massa, tampe e doure de ambos os lados;",
+          "4- Repita o processo com a outra metade da massa."
+        ],
+        "servings": "2 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 424,
+            "servingEnergy": 212
+          },
+          {
+            "totalCarbs": 77,
+            "servingCarbs": 38
+          },
+          {
+            "totalProteins": 2.1,
+            "servingProteins": 1.1
+          },
+          {
+            "totalLipids": 13,
+            "servingLipids": 6
+          },
+          {
+            "totalSodium": 399,
+            "servingSodium": 199
+          },
+          {
+            "totalPotassium": 156,
+            "servingPotassium": 78
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 46,
+            "totalLeucine": 200,
+            "servingLeucine": 100
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 80,
+            "servingTirosine": 40
+          },
+          {
+            "fenil": 25,
+            "totalFenil": 110,
+            "servingFenil": 55
+          },
+          {
+            "metiotine": 11,
+            "totalMetiotine": 50,
+            "servingMetiotine": 25
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Pãozinho de inhame",
+        "image": "https://images.unsplash.com/photo-1561043433-b0bb121aacef?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "ingredients": [
+          "270g de inhame cozido",
+          "100g de polvilho doce",
+          "100g de polvilho azedo",
+          "30g de óleo de girassol",
+          "7g de sal",
+          "1g de orégano seco"
+        ],
+        "preparation": [
+          "1- Cozinhe o inhame e amasse até virar um purê;",
+          "2- Em um recipiente, coloque o purê de inhame e acrescente os demais ingredientes;",
+          "3- Misture tudo e amasse com a mão até virar uma massa lisa e homogênea;",
+          "4- Caso a massa fique seca, adicione um pouco de água quente para dar o ponto;",
+          "5- Faça bolinhas e disponha em uma assadeira;",
+          "6- Asse em forno pré-aquecido a 200°C até que o fundo fique dourado."
+        ],
+        "servings": "30 unidades",
+        "nutritionalInformation": [
+          {
+            "totalEnergy": 1327,
+            "servingEnergy": 44
+          },
+          {
+            "totalCarbs": 259,
+            "servingCarbs": 9
+          },
+          {
+            "totalProteins": 5.1,
+            "servingProteins": 0.2
+          },
+          {
+            "totalLipids": 31,
+            "servingLipids": 1
+          },
+          {
+            "totalSodium": 2741,
+            "servingSodium": 91
+          },
+          {
+            "totalPotassium": 2033,
+            "servingPotassium": 68
+          }
+        ],
+        "graphInformation": [
+          {
+            "leucine": 42,
+            "totalLeucine": 280,
+            "servingLeucine": 9
+          },
+          {
+            "tirosine": 18,
+            "totalTirosine": 120,
+            "servingTirosine": 4
+          },
+          {
+            "fenil": 31,
+            "totalFenil": 210,
+            "servingFenil": 7
+          },
+          {
+            "metiotine": 9,
+            "totalMetiotine": 60,
+            "servingMetiotine": 2
+          }
+        ]
+      }
+    ]
   }
 ]

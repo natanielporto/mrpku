@@ -1,11 +1,10 @@
 import { useLayoutEffect, useState } from "react";
 import { FlatList, SafeAreaView, View } from "react-native";
-import { RecipeService } from "../../../services/recipe";
-import { MajorCategory, Recipe } from "../../../services/recipe/types";
 import { RecipeCard } from "../RecipeCard/RecipeCard";
 import recipes from "../../../recipes/recipes.json";
 import { CategoryCard } from "../CategoryCard/CategoryCard";
-const recipeService = new RecipeService();
+import { MajorCategory } from "../../../services/recipe/types";
+
 
 export function CategoryLists() {
   const [list, setList] = useState<MajorCategory[]>([]);

@@ -23,6 +23,8 @@ export function Recipe() {
       <Screen name="biscuitsAndCrackers" component={RecipeLists} />
       <Screen name="cakesAndLittleCakes" component={RecipeLists} />
       <Screen name="sweets" component={RecipeLists} />
+      <Screen name="pasta" component={RecipeLists} />
+      <Screen name="bread" component={RecipeLists} />
       <Screen name="detail" component={RecipeDetail} />
     </Navigator>
   );

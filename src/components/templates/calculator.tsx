@@ -1,7 +1,8 @@
-import { Text, TextInput, TouchableOpacity, View } from "react-native";
+import { Image, Text, TextInput, TouchableOpacity, View } from "react-native";
 import { TemplateWrapper } from "../atoms/TemplateWrapper/TemplateWrapper";
 import { AntDesign } from "@expo/vector-icons";
 import { useState } from "react";
+import { AdCard } from "../atoms/AdCard/AdCard";
 
 export function CalculatorScreen() {
   const items = ["Leucina", "Tirosina", "Fenilalanina", "Metiotina"];
@@ -95,6 +96,9 @@ export function CalculatorScreen() {
               ? `${selectedItem}/mg`
               : "Selecione um aminoácido"}
           </Text>
+        </View>
+        <View className="bg-green-50 flex justify-center items-center h-32 mx-8 rounded-2xl">
+          <Image source={require("../../assets/danone-logo.webp")} />
         </View>
       </View>
     </TemplateWrapper>

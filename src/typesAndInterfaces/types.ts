@@ -18,6 +18,12 @@ export type RecipeRoute = {
   sweets: {
     from: "home";
   };
+  pasta: {
+    from: "home";
+  };
+  bread: {
+    from: "home";
+  };
   detail: {
     recipeId: string;
   };

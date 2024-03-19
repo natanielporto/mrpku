@@ -3,6 +3,8 @@ export enum Categories {
   biscuitsAndCrackers = "Biscoitos e bolachas",
   cakesAndLittleCakes = "Bolos e bolinhos",
   sweets = "Doces",
+  pasta = "Massas",
+  bread = "Pães",
 }
 export interface NutritionalInfo {
   totalEnergy: number;

@@ -1,9 +1,6 @@
-import { Text, TouchableOpacity, View, Image } from "react-native";
-import { Ionicons } from "@expo/vector-icons";
-import { MajorCategory, Recipe } from "../../../services/recipe/types";
+import { MajorCategory } from "../../../services/recipe/types";
 import { useNavigation } from "@react-navigation/native";
 import { RecipeNavigatorRoutesProps } from "../../../typesAndInterfaces/types";
-import { useRef } from "react";
 import { ButtonCard } from "../../atoms/ButtonCard/ButtonCard";
 interface Data {
   data: MajorCategory;
@@ -24,6 +21,12 @@ export const CategoryCard = ({ data }: Data) => {
 
       if (text === "Doces")
       navigation.navigate("sweets", { category: data.category });
+
+      if (text === "Massas")
+      navigation.navigate("pasta", { category: data.category });
+  
+      if (text === "Pães")
+      navigation.navigate("bread", { category: data.category });
 
     // navigation.navigate("", { category: data.category });
     // navigation.navigate("detail", { recipeId: id });

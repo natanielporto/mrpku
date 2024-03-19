@@ -1,11 +1,12 @@
 import { useLayoutEffect, useState } from "react";
 import {
-  FlatList,
   SafeAreaView,
   View,
   TouchableOpacity,
   Text,
   ScrollView,
+  Image,
+  Linking
 } from "react-native";
 import { Recipe } from "../../../services/recipe/types";
 import { RecipeCard } from "../RecipeCard/RecipeCard";
@@ -30,6 +31,8 @@ export function RecipeLists() {
   function handleGoBack() {
     navigation.goBack();
   }
+
+
   return (
     <SafeAreaView className="flex-1 pt-2">
       <TouchableOpacity
@@ -40,9 +43,9 @@ export function RecipeLists() {
         <Text className="ml-2">Retornar</Text>
       </TouchableOpacity>
       <ScrollView>
-        {list?.map((item) => (
+        {list?.map((item, index) => (
           <View key={item.id} className="py-2">
-            <RecipeCard recipe={item} />
+            {index === 0 ? <RecipeCard ad/> : <RecipeCard recipe={item} />}
           </View>
         ))}
       </ScrollView>
